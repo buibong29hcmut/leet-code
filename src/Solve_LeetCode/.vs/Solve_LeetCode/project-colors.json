@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4b7fdbc5-bc3c-4981-a6ac-4929d06d36bb": {
+      "ProjectGuid": "4b7fdbc5-bc3c-4981-a6ac-4929d06d36bb",
+      "DisplayName": "Problem2.Add_Two_Number",
+      "ColorIndex": 0
+    },
+    "1972edc8-4697-4db1-916a-f7a3dc87c741": {
+      "ProjectGuid": "1972edc8-4697-4db1-916a-f7a3dc87c741",
+      "DisplayName": "Problem1.TwoSum",
+      "ColorIndex": 1
+    },
+    "efc71b16-2027-4ee8-9eec-1d42657164c8": {
+      "ProjectGuid": "efc71b16-2027-4ee8-9eec-1d42657164c8",
+      "DisplayName": "Problem3.Longest_SubString",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

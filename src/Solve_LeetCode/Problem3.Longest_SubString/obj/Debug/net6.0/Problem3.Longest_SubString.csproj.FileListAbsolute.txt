@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem3.Longest_SubString\bin\Debug\net6.0\Problem3.Longest_SubString.exe
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem3.Longest_SubString\bin\Debug\net6.0\Problem3.Longest_SubString.deps.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem3.Longest_SubString\bin\Debug\net6.0\Problem3.Longest_SubString.runtimeconfig.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem3.Longest_SubString\bin\Debug\net6.0\Problem3.Longest_SubString.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem3.Longest_SubString\bin\Debug\net6.0\Problem3.Longest_SubString.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem3.Longest_SubString\obj\Debug\net6.0\Problem3.Longest_SubString.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem3.Longest_SubString\obj\Debug\net6.0\Problem3.Longest_SubString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem3.Longest_SubString\obj\Debug\net6.0\Problem3.Longest_SubString.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem3.Longest_SubString\obj\Debug\net6.0\Problem3.Longest_SubString.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem3.Longest_SubString\obj\Debug\net6.0\Problem3.Longest_SubString.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem3.Longest_SubString\obj\Debug\net6.0\Problem3.Longest_SubString.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem3.Longest_SubString\obj\Debug\net6.0\ref\Problem3.Longest_SubString.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem3.Longest_SubString\obj\Debug\net6.0\Problem3.Longest_SubString.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem3.Longest_SubString\obj\Debug\net6.0\Problem3.Longest_SubString.genruntimeconfig.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem3.Longest_SubString\obj\Debug\net6.0\refint\Problem3.Longest_SubString.dll
