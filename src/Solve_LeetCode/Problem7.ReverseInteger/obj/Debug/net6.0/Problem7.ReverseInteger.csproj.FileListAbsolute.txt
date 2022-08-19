@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem7.ReverseInteger\bin\Debug\net6.0\Problem7.ReverseInteger.exe
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem7.ReverseInteger\bin\Debug\net6.0\Problem7.ReverseInteger.deps.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem7.ReverseInteger\bin\Debug\net6.0\Problem7.ReverseInteger.runtimeconfig.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem7.ReverseInteger\bin\Debug\net6.0\Problem7.ReverseInteger.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem7.ReverseInteger\bin\Debug\net6.0\Problem7.ReverseInteger.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem7.ReverseInteger\obj\Debug\net6.0\Problem7.ReverseInteger.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem7.ReverseInteger\obj\Debug\net6.0\Problem7.ReverseInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem7.ReverseInteger\obj\Debug\net6.0\Problem7.ReverseInteger.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem7.ReverseInteger\obj\Debug\net6.0\Problem7.ReverseInteger.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem7.ReverseInteger\obj\Debug\net6.0\Problem7.ReverseInteger.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem7.ReverseInteger\obj\Debug\net6.0\Problem7.ReverseInteger.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem7.ReverseInteger\obj\Debug\net6.0\refint\Problem7.ReverseInteger.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem7.ReverseInteger\obj\Debug\net6.0\Problem7.ReverseInteger.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem7.ReverseInteger\obj\Debug\net6.0\Problem7.ReverseInteger.genruntimeconfig.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem7.ReverseInteger\obj\Debug\net6.0\ref\Problem7.ReverseInteger.dll
