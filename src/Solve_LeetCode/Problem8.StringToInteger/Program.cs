@@ -10,11 +10,21 @@
     if (input[index] == '-')
     {
         sign = -sign;
+        index++;
+    }
+    if(input[index] == '+')
+    {
+        index++;
+    }
+    while (index<input.Length &&input[index]!=null && char.IsDigit(input[index]))
+    {
+        int re = input[index] - '0';
+        result = result * 10 + re;
+        index++;
     }
 
-    return result;
+    return result * sign;
 }
 
 
-// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+Console.WriteLine(myAtoi(" -321"));

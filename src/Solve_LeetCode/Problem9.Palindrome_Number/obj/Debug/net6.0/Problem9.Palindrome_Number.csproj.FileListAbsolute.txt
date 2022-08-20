@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.Palindrome_Number\bin\Debug\net6.0\Problem9.Palindrome_Number.exe
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.Palindrome_Number\bin\Debug\net6.0\Problem9.Palindrome_Number.deps.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.Palindrome_Number\bin\Debug\net6.0\Problem9.Palindrome_Number.runtimeconfig.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.Palindrome_Number\bin\Debug\net6.0\Problem9.Palindrome_Number.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.Palindrome_Number\bin\Debug\net6.0\Problem9.Palindrome_Number.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.Palindrome_Number\obj\Debug\net6.0\Problem9.Palindrome_Number.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.Palindrome_Number\obj\Debug\net6.0\Problem9.Palindrome_Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.Palindrome_Number\obj\Debug\net6.0\Problem9.Palindrome_Number.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.Palindrome_Number\obj\Debug\net6.0\Problem9.Palindrome_Number.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.Palindrome_Number\obj\Debug\net6.0\Problem9.Palindrome_Number.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.Palindrome_Number\obj\Debug\net6.0\Problem9.Palindrome_Number.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.Palindrome_Number\obj\Debug\net6.0\refint\Problem9.Palindrome_Number.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.Palindrome_Number\obj\Debug\net6.0\Problem9.Palindrome_Number.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.Palindrome_Number\obj\Debug\net6.0\Problem9.Palindrome_Number.genruntimeconfig.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.Palindrome_Number\obj\Debug\net6.0\ref\Problem9.Palindrome_Number.dll
