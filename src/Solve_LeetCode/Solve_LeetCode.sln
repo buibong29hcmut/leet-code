@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem98_Validate Binary S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_41_ First Missing Positive", "Problem9_41_ First Missing Positive\Problem9_41_ First Missing Positive.csproj", "{1042672F-5B08-4D8F-997C-ACB45F88C129}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_219.Contains Duplicate II", "Problem9_219.Contains Duplicate II\Problem9_219.Contains Duplicate II.csproj", "{A019D589-D931-4B3D-A21B-8F12280AA265}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{1042672F-5B08-4D8F-997C-ACB45F88C129}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1042672F-5B08-4D8F-997C-ACB45F88C129}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1042672F-5B08-4D8F-997C-ACB45F88C129}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A019D589-D931-4B3D-A21B-8F12280AA265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A019D589-D931-4B3D-A21B-8F12280AA265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A019D589-D931-4B3D-A21B-8F12280AA265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A019D589-D931-4B3D-A21B-8F12280AA265}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
