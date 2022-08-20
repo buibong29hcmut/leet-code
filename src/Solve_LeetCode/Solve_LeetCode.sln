@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_41_ First Missing 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_219.Contains Duplicate II", "Problem9_219.Contains Duplicate II\Problem9_219.Contains Duplicate II.csproj", "{A019D589-D931-4B3D-A21B-8F12280AA265}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_229.Majority Element II", "Problem9_229.Majority Element II\Problem9_229.Majority Element II.csproj", "{BCEF3D72-6D05-44AB-B0EC-3FE67851195C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{A019D589-D931-4B3D-A21B-8F12280AA265}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A019D589-D931-4B3D-A21B-8F12280AA265}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A019D589-D931-4B3D-A21B-8F12280AA265}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCEF3D72-6D05-44AB-B0EC-3FE67851195C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCEF3D72-6D05-44AB-B0EC-3FE67851195C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCEF3D72-6D05-44AB-B0EC-3FE67851195C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCEF3D72-6D05-44AB-B0EC-3FE67851195C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
