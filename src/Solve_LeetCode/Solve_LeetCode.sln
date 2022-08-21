@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_268. Missing Numbe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9.242. Valid Anagram", "Problem9.242. Valid Anagram\Problem9.242. Valid Anagram.csproj", "{AE683C65-FE44-4419-9CAC-42D1A73D1EE6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9.290. Word Pattern", "Problem9.290. Word Pattern\Problem9.290. Word Pattern.csproj", "{6C0F95F9-D96D-4B70-9A9B-7D30986E85BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{AE683C65-FE44-4419-9CAC-42D1A73D1EE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE683C65-FE44-4419-9CAC-42D1A73D1EE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE683C65-FE44-4419-9CAC-42D1A73D1EE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C0F95F9-D96D-4B70-9A9B-7D30986E85BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C0F95F9-D96D-4B70-9A9B-7D30986E85BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C0F95F9-D96D-4B70-9A9B-7D30986E85BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C0F95F9-D96D-4B70-9A9B-7D30986E85BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
