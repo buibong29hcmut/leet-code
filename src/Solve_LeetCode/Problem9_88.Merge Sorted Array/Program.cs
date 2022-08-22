@@ -7,7 +7,7 @@
         int index = 0;
         for(int i = m; i < nums1.Length; i++)
         {
-            nums1[i] = index++;
+            nums1[i] = nums1[index++];
         }
         Array.Sort(nums1);
     }
