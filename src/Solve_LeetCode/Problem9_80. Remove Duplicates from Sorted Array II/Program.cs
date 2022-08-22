@@ -1,15 +1,31 @@
-﻿
-int RemoveDuplicates(int[] nums)
+﻿public class Solution
 {
-    int count = 0;
-    for(int i = 1; i < nums.Length; i++)
+    int RemoveDuplicates(int[] nums)
     {
-        if (nums[i] == nums[i - 1])
+        int count = 1;
+        int appear = 1;
+        for (int i = 1; i < nums.Length; i++)
         {
-            nums[i - 1] = nums[i];
-            count++;
+            if (nums[count] == nums[appear])
+            {
+                if (appear == 1)
+                {
+                    nums[count] = nums[i];
+                    count++;
+                    appear++;
+                }
+
+                else if (appear == 2)
+                    continue;
+            }
+            else
+            {
+                nums[count] = nums[i];
+                count++;
+                appear = 1;
+            }
+            
         }
+        return count;
     }
-    return count;
 }
-Console.WriteLine("Hello, World!");

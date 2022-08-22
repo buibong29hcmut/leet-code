@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_80. Remove Duplica
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_88.Merge Sorted Array", "Problem9_88.Merge Sorted Array\Problem9_88.Merge Sorted Array.csproj", "{C8544756-4DCC-4BCD-9EBC-873EF8353853}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_347. Top K Frequent Elements", "Problem9_347. Top K Frequent Elements\Problem9_347. Top K Frequent Elements.csproj", "{7D3F3BDF-A318-4600-8BE4-07E779BABBD5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{C8544756-4DCC-4BCD-9EBC-873EF8353853}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8544756-4DCC-4BCD-9EBC-873EF8353853}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8544756-4DCC-4BCD-9EBC-873EF8353853}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D3F3BDF-A318-4600-8BE4-07E779BABBD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D3F3BDF-A318-4600-8BE4-07E779BABBD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D3F3BDF-A318-4600-8BE4-07E779BABBD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D3F3BDF-A318-4600-8BE4-07E779BABBD5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
