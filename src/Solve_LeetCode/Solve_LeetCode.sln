@@ -59,13 +59,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_383. Ransom Note",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9.179. Largest Number", "Problem9.179. Largest Number\Problem9.179. Largest Number.csproj", "{3E134F69-C08D-4A9F-B864-F88C45293E97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_79. Word Search", "Problem9_79. Word Search\Problem9_79. Word Search.csproj", "{7122D6D5-EE59-46E3-87B3-858913A35045}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_79. Word Search", "Problem9_79. Word Search\Problem9_79. Word Search.csproj", "{7122D6D5-EE59-46E3-87B3-858913A35045}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_80. Remove Duplicates from Sorted Array II", "Problem9_80. Remove Duplicates from Sorted Array II\Problem9_80. Remove Duplicates from Sorted Array II.csproj", "{2E06C90D-E272-4EBA-A1A8-FD8E52E1CACC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_80. Remove Duplicates from Sorted Array II", "Problem9_80. Remove Duplicates from Sorted Array II\Problem9_80. Remove Duplicates from Sorted Array II.csproj", "{2E06C90D-E272-4EBA-A1A8-FD8E52E1CACC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_88.Merge Sorted Array", "Problem9_88.Merge Sorted Array\Problem9_88.Merge Sorted Array.csproj", "{C8544756-4DCC-4BCD-9EBC-873EF8353853}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_88.Merge Sorted Array", "Problem9_88.Merge Sorted Array\Problem9_88.Merge Sorted Array.csproj", "{C8544756-4DCC-4BCD-9EBC-873EF8353853}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_347. Top K Frequent Elements", "Problem9_347. Top K Frequent Elements\Problem9_347. Top K Frequent Elements.csproj", "{7D3F3BDF-A318-4600-8BE4-07E779BABBD5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_347. Top K Frequent Elements", "Problem9_347. Top K Frequent Elements\Problem9_347. Top K Frequent Elements.csproj", "{7D3F3BDF-A318-4600-8BE4-07E779BABBD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_20. Valid Parentheses", "Problem9_20. Valid Parentheses\Problem9_20. Valid Parentheses.csproj", "{81202C0C-448A-4D1A-91AC-1038E8A6FC6C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -201,6 +203,10 @@ Global
 		{7D3F3BDF-A318-4600-8BE4-07E779BABBD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D3F3BDF-A318-4600-8BE4-07E779BABBD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D3F3BDF-A318-4600-8BE4-07E779BABBD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81202C0C-448A-4D1A-91AC-1038E8A6FC6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81202C0C-448A-4D1A-91AC-1038E8A6FC6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81202C0C-448A-4D1A-91AC-1038E8A6FC6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81202C0C-448A-4D1A-91AC-1038E8A6FC6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

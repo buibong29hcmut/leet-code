@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_20. Valid Parentheses\bin\Debug\net6.0\Problem9_20. Valid Parentheses.exe
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_20. Valid Parentheses\bin\Debug\net6.0\Problem9_20. Valid Parentheses.deps.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_20. Valid Parentheses\bin\Debug\net6.0\Problem9_20. Valid Parentheses.runtimeconfig.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_20. Valid Parentheses\bin\Debug\net6.0\Problem9_20. Valid Parentheses.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_20. Valid Parentheses\bin\Debug\net6.0\Problem9_20. Valid Parentheses.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_20. Valid Parentheses\obj\Debug\net6.0\Problem9_20. Valid Parentheses.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_20. Valid Parentheses\obj\Debug\net6.0\Problem9_20. Valid Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_20. Valid Parentheses\obj\Debug\net6.0\Problem9_20. Valid Parentheses.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_20. Valid Parentheses\obj\Debug\net6.0\Problem9_20. Valid Parentheses.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_20. Valid Parentheses\obj\Debug\net6.0\Problem9_20. Valid Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_20. Valid Parentheses\obj\Debug\net6.0\Problem9_20. Valid Parentheses.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_20. Valid Parentheses\obj\Debug\net6.0\refint\Problem9_20. Valid Parentheses.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_20. Valid Parentheses\obj\Debug\net6.0\Problem9_20. Valid Parentheses.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_20. Valid Parentheses\obj\Debug\net6.0\Problem9_20. Valid Parentheses.genruntimeconfig.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_20. Valid Parentheses\obj\Debug\net6.0\ref\Problem9_20. Valid Parentheses.dll
