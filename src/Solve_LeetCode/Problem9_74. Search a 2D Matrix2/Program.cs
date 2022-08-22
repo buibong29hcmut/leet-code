@@ -1,20 +1,32 @@
-﻿
-bool SearchMatrix(int[][] matrix, int target)
+﻿public class Solution
 {
-   
-    return Search(matrix, 0, 0, target);
-}
-bool Search(int[][] maxtrix, int row, int col,int target)
-{
-    if (maxtrix[row][col] < target)
+    public bool SearchMatrix(int[][] matrix, int target)
     {
-        var result=matri
+
+        return Search(matrix, 0, matrix[0].Length - 1, target);
     }
-        
-        
- 
-    if (maxtrix[row][target]==target)
-        return true;
-    return false;
+    bool Search(int[][] maxtrix, int row, int col, int target)
+    {
+        if (row > maxtrix.Length - 1 || col > maxtrix[0].Length - 1 || col < 0)
+        {
+            return false;
+        }
+        if (maxtrix[row][col] < target)
+        {
+            return Search(maxtrix, row + 1, col, target);
+
+        }
+        else if (maxtrix[row][col] > target)
+        {
+            return Search(maxtrix, row, col - 1, target);
+
+        }
+        else
+        {
+            return true;
+
+        }
+
+
+    }
 }
-Console.WriteLine("Hello, World!");

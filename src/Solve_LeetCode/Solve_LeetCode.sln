@@ -61,6 +61,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9.179. Largest Numbe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_79. Word Search", "Problem9_79. Word Search\Problem9_79. Word Search.csproj", "{7122D6D5-EE59-46E3-87B3-858913A35045}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_80. Remove Duplicates from Sorted Array II", "Problem9_80. Remove Duplicates from Sorted Array II\Problem9_80. Remove Duplicates from Sorted Array II.csproj", "{2E06C90D-E272-4EBA-A1A8-FD8E52E1CACC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{7122D6D5-EE59-46E3-87B3-858913A35045}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7122D6D5-EE59-46E3-87B3-858913A35045}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7122D6D5-EE59-46E3-87B3-858913A35045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E06C90D-E272-4EBA-A1A8-FD8E52E1CACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E06C90D-E272-4EBA-A1A8-FD8E52E1CACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E06C90D-E272-4EBA-A1A8-FD8E52E1CACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E06C90D-E272-4EBA-A1A8-FD8E52E1CACC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
