@@ -41,19 +41,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_74.Search _A_2D_Ma
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_74. Search a 2D Matrix2", "Problem9_74. Search a 2D Matrix2\Problem9_74. Search a 2D Matrix2.csproj", "{9BB2561D-309B-4F9F-BBA5-A43D39064E16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_33.33. Search in Rotated Sorted Array", "Problem9_33.33. Search in Rotated Sorted Array\Problem9_33.33. Search in Rotated Sorted Array.csproj", "{7EA31298-CF01-4634-9F78-08E90DD9D286}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_33.33. Search in Rotated Sorted Array", "Problem9_33.33. Search in Rotated Sorted Array\Problem9_33.33. Search in Rotated Sorted Array.csproj", "{7EA31298-CF01-4634-9F78-08E90DD9D286}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_169. Majority Element", "Problem9_169. Majority Element\Problem9_169. Majority Element.csproj", "{2931F6A4-D4C9-4F5F-8329-816F05386A80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_169. Majority Element", "Problem9_169. Majority Element\Problem9_169. Majority Element.csproj", "{2931F6A4-D4C9-4F5F-8329-816F05386A80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_73. Set Matrix Zeroes", "Problem9_73. Set Matrix Zeroes\Problem9_73. Set Matrix Zeroes.csproj", "{D6987839-8B0B-4465-BB8E-B8F096183722}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_73. Set Matrix Zeroes", "Problem9_73. Set Matrix Zeroes\Problem9_73. Set Matrix Zeroes.csproj", "{D6987839-8B0B-4465-BB8E-B8F096183722}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_268. Missing Number", "Problem9_268. Missing Number\Problem9_268. Missing Number.csproj", "{7F4C7066-F517-42E5-852B-01D96A7D8888}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_268. Missing Number", "Problem9_268. Missing Number\Problem9_268. Missing Number.csproj", "{7F4C7066-F517-42E5-852B-01D96A7D8888}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9.242. Valid Anagram", "Problem9.242. Valid Anagram\Problem9.242. Valid Anagram.csproj", "{AE683C65-FE44-4419-9CAC-42D1A73D1EE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9.242. Valid Anagram", "Problem9.242. Valid Anagram\Problem9.242. Valid Anagram.csproj", "{AE683C65-FE44-4419-9CAC-42D1A73D1EE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9.290. Word Pattern", "Problem9.290. Word Pattern\Problem9.290. Word Pattern.csproj", "{6C0F95F9-D96D-4B70-9A9B-7D30986E85BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9.290. Word Pattern", "Problem9.290. Word Pattern\Problem9.290. Word Pattern.csproj", "{6C0F95F9-D96D-4B70-9A9B-7D30986E85BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_205. Isomorphic Strings", "Problem9_205. Isomorphic Strings\Problem9_205. Isomorphic Strings.csproj", "{E2822DF9-7423-4146-B269-147C6D9E26FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_205. Isomorphic Strings", "Problem9_205. Isomorphic Strings\Problem9_205. Isomorphic Strings.csproj", "{E2822DF9-7423-4146-B269-147C6D9E26FA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_383. Ransom Note", "Problem9_383. Ransom Note\Problem9_383. Ransom Note.csproj", "{3ED3EB7E-719D-4AD7-9017-E0081E39DF83}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9.179. Largest Number", "Problem9.179. Largest Number\Problem9.179. Largest Number.csproj", "{3E134F69-C08D-4A9F-B864-F88C45293E97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_79. Word Search", "Problem9_79. Word Search\Problem9_79. Word Search.csproj", "{7122D6D5-EE59-46E3-87B3-858913A35045}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +171,18 @@ Global
 		{E2822DF9-7423-4146-B269-147C6D9E26FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2822DF9-7423-4146-B269-147C6D9E26FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2822DF9-7423-4146-B269-147C6D9E26FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ED3EB7E-719D-4AD7-9017-E0081E39DF83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ED3EB7E-719D-4AD7-9017-E0081E39DF83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ED3EB7E-719D-4AD7-9017-E0081E39DF83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ED3EB7E-719D-4AD7-9017-E0081E39DF83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E134F69-C08D-4A9F-B864-F88C45293E97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E134F69-C08D-4A9F-B864-F88C45293E97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E134F69-C08D-4A9F-B864-F88C45293E97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E134F69-C08D-4A9F-B864-F88C45293E97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7122D6D5-EE59-46E3-87B3-858913A35045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7122D6D5-EE59-46E3-87B3-858913A35045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7122D6D5-EE59-46E3-87B3-858913A35045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7122D6D5-EE59-46E3-87B3-858913A35045}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

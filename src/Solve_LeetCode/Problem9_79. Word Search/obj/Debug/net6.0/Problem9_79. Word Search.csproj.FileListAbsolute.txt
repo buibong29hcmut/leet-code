@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_79. Word Search\bin\Debug\net6.0\Problem9_79. Word Search.exe
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_79. Word Search\bin\Debug\net6.0\Problem9_79. Word Search.deps.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_79. Word Search\bin\Debug\net6.0\Problem9_79. Word Search.runtimeconfig.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_79. Word Search\bin\Debug\net6.0\Problem9_79. Word Search.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_79. Word Search\bin\Debug\net6.0\Problem9_79. Word Search.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_79. Word Search\obj\Debug\net6.0\Problem9_79. Word Search.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_79. Word Search\obj\Debug\net6.0\Problem9_79. Word Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_79. Word Search\obj\Debug\net6.0\Problem9_79. Word Search.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_79. Word Search\obj\Debug\net6.0\Problem9_79. Word Search.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_79. Word Search\obj\Debug\net6.0\Problem9_79. Word Search.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_79. Word Search\obj\Debug\net6.0\Problem9_79. Word Search.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_79. Word Search\obj\Debug\net6.0\refint\Problem9_79. Word Search.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_79. Word Search\obj\Debug\net6.0\Problem9_79. Word Search.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_79. Word Search\obj\Debug\net6.0\Problem9_79. Word Search.genruntimeconfig.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_79. Word Search\obj\Debug\net6.0\ref\Problem9_79. Word Search.dll

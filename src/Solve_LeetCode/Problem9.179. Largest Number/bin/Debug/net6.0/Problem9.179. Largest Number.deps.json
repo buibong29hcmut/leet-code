@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Problem9.179. Largest Number/1.0.0": {
+        "runtime": {
+          "Problem9.179. Largest Number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problem9.179. Largest Number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

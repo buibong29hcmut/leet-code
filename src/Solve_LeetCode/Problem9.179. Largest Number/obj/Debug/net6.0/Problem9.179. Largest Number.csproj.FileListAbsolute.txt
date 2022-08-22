@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.179. Largest Number\bin\Debug\net6.0\Problem9.179. Largest Number.exe
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.179. Largest Number\bin\Debug\net6.0\Problem9.179. Largest Number.deps.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.179. Largest Number\bin\Debug\net6.0\Problem9.179. Largest Number.runtimeconfig.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.179. Largest Number\bin\Debug\net6.0\Problem9.179. Largest Number.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.179. Largest Number\bin\Debug\net6.0\Problem9.179. Largest Number.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.179. Largest Number\obj\Debug\net6.0\Problem9.179. Largest Number.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.179. Largest Number\obj\Debug\net6.0\Problem9.179. Largest Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.179. Largest Number\obj\Debug\net6.0\Problem9.179. Largest Number.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.179. Largest Number\obj\Debug\net6.0\Problem9.179. Largest Number.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.179. Largest Number\obj\Debug\net6.0\Problem9.179. Largest Number.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.179. Largest Number\obj\Debug\net6.0\Problem9.179. Largest Number.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.179. Largest Number\obj\Debug\net6.0\refint\Problem9.179. Largest Number.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.179. Largest Number\obj\Debug\net6.0\Problem9.179. Largest Number.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.179. Largest Number\obj\Debug\net6.0\Problem9.179. Largest Number.genruntimeconfig.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.179. Largest Number\obj\Debug\net6.0\ref\Problem9.179. Largest Number.dll
