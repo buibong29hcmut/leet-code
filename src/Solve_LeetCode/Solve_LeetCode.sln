@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_79. Word Search", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_80. Remove Duplicates from Sorted Array II", "Problem9_80. Remove Duplicates from Sorted Array II\Problem9_80. Remove Duplicates from Sorted Array II.csproj", "{2E06C90D-E272-4EBA-A1A8-FD8E52E1CACC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_88.Merge Sorted Array", "Problem9_88.Merge Sorted Array\Problem9_88.Merge Sorted Array.csproj", "{C8544756-4DCC-4BCD-9EBC-873EF8353853}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{2E06C90D-E272-4EBA-A1A8-FD8E52E1CACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E06C90D-E272-4EBA-A1A8-FD8E52E1CACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E06C90D-E272-4EBA-A1A8-FD8E52E1CACC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8544756-4DCC-4BCD-9EBC-873EF8353853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8544756-4DCC-4BCD-9EBC-873EF8353853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8544756-4DCC-4BCD-9EBC-873EF8353853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8544756-4DCC-4BCD-9EBC-873EF8353853}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
