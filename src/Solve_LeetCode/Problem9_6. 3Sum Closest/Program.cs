@@ -16,8 +16,7 @@
                 int range = Math.Abs(sum - target);
                 if (range == 0)
                 {
-                    result = sum;
-                    break;
+                    return result;
                 }
                 if (minsum != Math.Min(minsum, range))
                 {
