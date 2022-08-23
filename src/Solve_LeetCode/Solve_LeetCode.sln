@@ -67,7 +67,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_88.Merge Sorted Ar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_347. Top K Frequent Elements", "Problem9_347. Top K Frequent Elements\Problem9_347. Top K Frequent Elements.csproj", "{7D3F3BDF-A318-4600-8BE4-07E779BABBD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_20. Valid Parentheses", "Problem9_20. Valid Parentheses\Problem9_20. Valid Parentheses.csproj", "{81202C0C-448A-4D1A-91AC-1038E8A6FC6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_20. Valid Parentheses", "Problem9_20. Valid Parentheses\Problem9_20. Valid Parentheses.csproj", "{81202C0C-448A-4D1A-91AC-1038E8A6FC6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_22. Generate Parentheses", "Problem9_22. Generate Parentheses\Problem9_22. Generate Parentheses.csproj", "{4AE5E5BA-2DAE-4A2B-BC0C-E2C1916FC4B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -207,6 +209,10 @@ Global
 		{81202C0C-448A-4D1A-91AC-1038E8A6FC6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81202C0C-448A-4D1A-91AC-1038E8A6FC6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81202C0C-448A-4D1A-91AC-1038E8A6FC6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AE5E5BA-2DAE-4A2B-BC0C-E2C1916FC4B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AE5E5BA-2DAE-4A2B-BC0C-E2C1916FC4B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AE5E5BA-2DAE-4A2B-BC0C-E2C1916FC4B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AE5E5BA-2DAE-4A2B-BC0C-E2C1916FC4B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
