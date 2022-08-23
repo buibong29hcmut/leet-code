@@ -77,6 +77,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_43. Multiply Strin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_6. 3Sum Closest", "Problem9_6. 3Sum Closest\Problem9_6. 3Sum Closest.csproj", "{0BA9EAA0-50D5-4788-B0F0-C03388A2B4AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_454. 4Sum II", "Problem9_454. 4Sum II\Problem9_454. 4Sum II.csproj", "{986DC222-EA5C-49D3-B7F2-63525C74D0BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -231,6 +233,10 @@ Global
 		{0BA9EAA0-50D5-4788-B0F0-C03388A2B4AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BA9EAA0-50D5-4788-B0F0-C03388A2B4AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BA9EAA0-50D5-4788-B0F0-C03388A2B4AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{986DC222-EA5C-49D3-B7F2-63525C74D0BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{986DC222-EA5C-49D3-B7F2-63525C74D0BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{986DC222-EA5C-49D3-B7F2-63525C74D0BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{986DC222-EA5C-49D3-B7F2-63525C74D0BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
