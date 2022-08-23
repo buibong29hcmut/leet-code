@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_43. Multiply Strings\bin\Debug\net6.0\Problem9_43. Multiply Strings.exe
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_43. Multiply Strings\bin\Debug\net6.0\Problem9_43. Multiply Strings.deps.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_43. Multiply Strings\bin\Debug\net6.0\Problem9_43. Multiply Strings.runtimeconfig.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_43. Multiply Strings\bin\Debug\net6.0\Problem9_43. Multiply Strings.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_43. Multiply Strings\bin\Debug\net6.0\Problem9_43. Multiply Strings.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_43. Multiply Strings\obj\Debug\net6.0\Problem9_43. Multiply Strings.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_43. Multiply Strings\obj\Debug\net6.0\Problem9_43. Multiply Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_43. Multiply Strings\obj\Debug\net6.0\Problem9_43. Multiply Strings.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_43. Multiply Strings\obj\Debug\net6.0\Problem9_43. Multiply Strings.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_43. Multiply Strings\obj\Debug\net6.0\Problem9_43. Multiply Strings.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_43. Multiply Strings\obj\Debug\net6.0\Problem9_43. Multiply Strings.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_43. Multiply Strings\obj\Debug\net6.0\refint\Problem9_43. Multiply Strings.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_43. Multiply Strings\obj\Debug\net6.0\Problem9_43. Multiply Strings.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_43. Multiply Strings\obj\Debug\net6.0\Problem9_43. Multiply Strings.genruntimeconfig.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_43. Multiply Strings\obj\Debug\net6.0\ref\Problem9_43. Multiply Strings.dll
