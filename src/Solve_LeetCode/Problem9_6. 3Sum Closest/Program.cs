@@ -16,6 +16,7 @@
                 int range = Math.Abs(sum - target);
                 if (range == 0)
                 {
+                    result = sum;
                     return result;
                 }
                 if (minsum != Math.Min(minsum, range))
@@ -46,7 +47,7 @@ public class Program
     public static void Main()
     {
         Solution solution = new Solution();
-        Console.WriteLine(solution.ThreeSumClosest(new[] { -1, 2, 1, -4 },1));
+        Console.WriteLine(solution.ThreeSumClosest(new[] { 1,1,1,1,1 },3));
 
     }
 }
