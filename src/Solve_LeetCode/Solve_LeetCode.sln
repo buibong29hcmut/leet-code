@@ -73,7 +73,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_22. Generate Paren
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_7. Letter Combinations of a Phone Number", "Problem9_7. Letter Combinations of a Phone Number\Problem9_7. Letter Combinations of a Phone Number.csproj", "{F36AE88F-C065-4916-85D9-AF083DA2F6F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_43. Multiply Strings", "Problem9_43. Multiply Strings\Problem9_43. Multiply Strings.csproj", "{9F99E118-D379-45D6-93D9-9AA9134431F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_43. Multiply Strings", "Problem9_43. Multiply Strings\Problem9_43. Multiply Strings.csproj", "{9F99E118-D379-45D6-93D9-9AA9134431F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_6. 3Sum Closest", "Problem9_6. 3Sum Closest\Problem9_6. 3Sum Closest.csproj", "{0BA9EAA0-50D5-4788-B0F0-C03388A2B4AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -225,6 +227,10 @@ Global
 		{9F99E118-D379-45D6-93D9-9AA9134431F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F99E118-D379-45D6-93D9-9AA9134431F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F99E118-D379-45D6-93D9-9AA9134431F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BA9EAA0-50D5-4788-B0F0-C03388A2B4AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BA9EAA0-50D5-4788-B0F0-C03388A2B4AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BA9EAA0-50D5-4788-B0F0-C03388A2B4AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BA9EAA0-50D5-4788-B0F0-C03388A2B4AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
