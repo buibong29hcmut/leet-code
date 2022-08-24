@@ -16,9 +16,10 @@
             for (int i = index + 1; i <= index + 3 && i < s.Length; i++)
             {
                 string temp = s.Substring(index, i - index-1);
+                int curr = 0;
                 if (string.IsNullOrEmpty(temp))
-                    return;
-                int curr = Convert.ToInt32(temp);
+                    curr = 0;
+                else { curr = Convert.ToInt32(temp); }
                 if (temp[0] == '0' && temp.Length != 1)
                     return;
 
