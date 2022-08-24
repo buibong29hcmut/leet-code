@@ -11,7 +11,7 @@
             return;
         if (index==s.Length&& count == 4)
             result.Add(item);
-        else
+        else if(count<4)
         {
             for (int i = index + 1; i <= index + 3 && i < s.Length; i++)
             {
