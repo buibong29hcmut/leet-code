@@ -3,29 +3,26 @@
     public IList<int> FindDuplicates(int[] nums)
     {
         Dictionary<int, int> check = new();
-        HashSet<int> result = new HashSet<int>();
+        List<int> result = new List<int>();
         for(int i = 0; i < nums.Length; i++)
         {
             if (check.ContainsKey(nums[i]))
             {
-                if (check[nums[i]] >= 2)
-                {
-                    result.Remove(nums[i]);
-                    continue;
-                }
+              
                 int count = check[nums[i]]; 
                 check[nums[i]] = count + 1;
-                if (check[nums[i]] == 2)
-                {
-                    result.Add(nums[i]);
-                    continue;
-                }
+              
                 continue;
               
                 
             }
-            check.Add(nums[i], 0);
+            check.Add(nums[i], 1);
         }
-        return result.ToList();
+        foreach(var key in check.Keys)
+        {
+            if (check[key] == 2)
+                result.Add(key);
+        }
+        return result;
     }
 }
