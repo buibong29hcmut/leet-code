@@ -8,14 +8,14 @@
         {
             if (check.ContainsKey(nums[i]))
             {
-                if (check[nums[i]] >= 2&& result.Contains(nums[i]))
+                if (check[nums[i]] >= 2)
                 {
                     result.Remove(nums[i]);
                     continue;
                 }
                 int count = check[nums[i]]; 
                 check[nums[i]] = count + 1;
-                if (count == 2)
+                if (check[nums[i]] == 2)
                 {
                     result.Add(nums[i]);
                     continue;
