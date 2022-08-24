@@ -75,13 +75,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_7. Letter Combinat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_43. Multiply Strings", "Problem9_43. Multiply Strings\Problem9_43. Multiply Strings.csproj", "{9F99E118-D379-45D6-93D9-9AA9134431F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_6. 3Sum Closest", "Problem9_6. 3Sum Closest\Problem9_6. 3Sum Closest.csproj", "{0BA9EAA0-50D5-4788-B0F0-C03388A2B4AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_6. 3Sum Closest", "Problem9_6. 3Sum Closest\Problem9_6. 3Sum Closest.csproj", "{0BA9EAA0-50D5-4788-B0F0-C03388A2B4AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_454. 4Sum II", "Problem9_454. 4Sum II\Problem9_454. 4Sum II.csproj", "{986DC222-EA5C-49D3-B7F2-63525C74D0BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_454. 4Sum II", "Problem9_454. 4Sum II\Problem9_454. 4Sum II.csproj", "{986DC222-EA5C-49D3-B7F2-63525C74D0BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_240. Search a 2D Matrix II", "Problem9_240. Search a 2D Matrix II\Problem9_240. Search a 2D Matrix II.csproj", "{531B2669-3A76-4BFF-AE9E-62EA33498932}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_240. Search a 2D Matrix II", "Problem9_240. Search a 2D Matrix II\Problem9_240. Search a 2D Matrix II.csproj", "{531B2669-3A76-4BFF-AE9E-62EA33498932}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_378. Kth Smallest Element in a Sorted Matrix", "Problem9_378. Kth Smallest Element in a Sorted Matrix\Problem9_378. Kth Smallest Element in a Sorted Matrix.csproj", "{B5EC0704-36B7-4FE3-8C92-33FA1059B9EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_378. Kth Smallest Element in a Sorted Matrix", "Problem9_378. Kth Smallest Element in a Sorted Matrix\Problem9_378. Kth Smallest Element in a Sorted Matrix.csproj", "{B5EC0704-36B7-4FE3-8C92-33FA1059B9EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_442. Find All Duplicates in an Array", "Problem9_442. Find All Duplicates in an Array\Problem9_442. Find All Duplicates in an Array.csproj", "{3F39B95C-7981-475B-82E7-1D46D03B615F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -249,6 +251,10 @@ Global
 		{B5EC0704-36B7-4FE3-8C92-33FA1059B9EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5EC0704-36B7-4FE3-8C92-33FA1059B9EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5EC0704-36B7-4FE3-8C92-33FA1059B9EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F39B95C-7981-475B-82E7-1D46D03B615F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F39B95C-7981-475B-82E7-1D46D03B615F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F39B95C-7981-475B-82E7-1D46D03B615F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F39B95C-7981-475B-82E7-1D46D03B615F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
