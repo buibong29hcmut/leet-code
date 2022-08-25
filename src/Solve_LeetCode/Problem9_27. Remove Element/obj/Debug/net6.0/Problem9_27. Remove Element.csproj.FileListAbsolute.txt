@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_27. Remove Element\bin\Debug\net6.0\Problem9_27. Remove Element.exe
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_27. Remove Element\bin\Debug\net6.0\Problem9_27. Remove Element.deps.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_27. Remove Element\bin\Debug\net6.0\Problem9_27. Remove Element.runtimeconfig.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_27. Remove Element\bin\Debug\net6.0\Problem9_27. Remove Element.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_27. Remove Element\bin\Debug\net6.0\Problem9_27. Remove Element.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_27. Remove Element\obj\Debug\net6.0\Problem9_27. Remove Element.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_27. Remove Element\obj\Debug\net6.0\Problem9_27. Remove Element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_27. Remove Element\obj\Debug\net6.0\Problem9_27. Remove Element.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_27. Remove Element\obj\Debug\net6.0\Problem9_27. Remove Element.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_27. Remove Element\obj\Debug\net6.0\Problem9_27. Remove Element.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_27. Remove Element\obj\Debug\net6.0\Problem9_27. Remove Element.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_27. Remove Element\obj\Debug\net6.0\refint\Problem9_27. Remove Element.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_27. Remove Element\obj\Debug\net6.0\Problem9_27. Remove Element.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_27. Remove Element\obj\Debug\net6.0\Problem9_27. Remove Element.genruntimeconfig.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_27. Remove Element\obj\Debug\net6.0\ref\Problem9_27. Remove Element.dll
