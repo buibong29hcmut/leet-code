@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_59. Spiral Matrix II\bin\Debug\net6.0\Problem9_59. Spiral Matrix II.exe
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_59. Spiral Matrix II\bin\Debug\net6.0\Problem9_59. Spiral Matrix II.deps.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_59. Spiral Matrix II\bin\Debug\net6.0\Problem9_59. Spiral Matrix II.runtimeconfig.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_59. Spiral Matrix II\bin\Debug\net6.0\Problem9_59. Spiral Matrix II.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_59. Spiral Matrix II\bin\Debug\net6.0\Problem9_59. Spiral Matrix II.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_59. Spiral Matrix II\obj\Debug\net6.0\Problem9_59. Spiral Matrix II.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_59. Spiral Matrix II\obj\Debug\net6.0\Problem9_59. Spiral Matrix II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_59. Spiral Matrix II\obj\Debug\net6.0\Problem9_59. Spiral Matrix II.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_59. Spiral Matrix II\obj\Debug\net6.0\Problem9_59. Spiral Matrix II.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_59. Spiral Matrix II\obj\Debug\net6.0\Problem9_59. Spiral Matrix II.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_59. Spiral Matrix II\obj\Debug\net6.0\Problem9_59. Spiral Matrix II.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_59. Spiral Matrix II\obj\Debug\net6.0\refint\Problem9_59. Spiral Matrix II.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_59. Spiral Matrix II\obj\Debug\net6.0\Problem9_59. Spiral Matrix II.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_59. Spiral Matrix II\obj\Debug\net6.0\Problem9_59. Spiral Matrix II.genruntimeconfig.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_59. Spiral Matrix II\obj\Debug\net6.0\ref\Problem9_59. Spiral Matrix II.dll

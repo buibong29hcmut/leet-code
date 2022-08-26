@@ -91,6 +91,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_27. Remove Element
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_54. Spiral Matrix", "Problem9_54. Spiral Matrix\Problem9_54. Spiral Matrix.csproj", "{130C4026-53B4-4A6A-A45B-A7F450D506BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_59. Spiral Matrix II", "Problem9_59. Spiral Matrix II\Problem9_59. Spiral Matrix II.csproj", "{A3203901-603C-427B-B828-61025A9FE8CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -273,6 +275,10 @@ Global
 		{130C4026-53B4-4A6A-A45B-A7F450D506BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{130C4026-53B4-4A6A-A45B-A7F450D506BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{130C4026-53B4-4A6A-A45B-A7F450D506BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3203901-603C-427B-B828-61025A9FE8CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3203901-603C-427B-B828-61025A9FE8CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3203901-603C-427B-B828-61025A9FE8CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3203901-603C-427B-B828-61025A9FE8CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
