@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_125. Valid Palindrome\bin\Debug\net6.0\Problem9_125. Valid Palindrome.exe
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_125. Valid Palindrome\bin\Debug\net6.0\Problem9_125. Valid Palindrome.deps.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_125. Valid Palindrome\bin\Debug\net6.0\Problem9_125. Valid Palindrome.runtimeconfig.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_125. Valid Palindrome\bin\Debug\net6.0\Problem9_125. Valid Palindrome.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_125. Valid Palindrome\bin\Debug\net6.0\Problem9_125. Valid Palindrome.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_125. Valid Palindrome\obj\Debug\net6.0\Problem9_125. Valid Palindrome.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_125. Valid Palindrome\obj\Debug\net6.0\Problem9_125. Valid Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_125. Valid Palindrome\obj\Debug\net6.0\Problem9_125. Valid Palindrome.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_125. Valid Palindrome\obj\Debug\net6.0\Problem9_125. Valid Palindrome.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_125. Valid Palindrome\obj\Debug\net6.0\Problem9_125. Valid Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_125. Valid Palindrome\obj\Debug\net6.0\Problem9_125. Valid Palindrome.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_125. Valid Palindrome\obj\Debug\net6.0\refint\Problem9_125. Valid Palindrome.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_125. Valid Palindrome\obj\Debug\net6.0\Problem9_125. Valid Palindrome.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_125. Valid Palindrome\obj\Debug\net6.0\Problem9_125. Valid Palindrome.genruntimeconfig.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_125. Valid Palindrome\obj\Debug\net6.0\ref\Problem9_125. Valid Palindrome.dll
