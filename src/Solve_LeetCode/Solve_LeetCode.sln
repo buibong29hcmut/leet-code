@@ -95,7 +95,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_59. Spiral Matrix 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_125. Valid Palindrome", "Problem9_125. Valid Palindrome\Problem9_125. Valid Palindrome.csproj", "{F3FC0E63-25FA-4078-8980-AE553EC0C5B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_733. Flood Fill", "Problem9_733. Flood Fill\Problem9_733. Flood Fill.csproj", "{E84A8BB8-04BF-4411-9163-A5DC6E8A20A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_733. Flood Fill", "Problem9_733. Flood Fill\Problem9_733. Flood Fill.csproj", "{E84A8BB8-04BF-4411-9163-A5DC6E8A20A2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_66. Plus One", "Problem9_66. Plus One\Problem9_66. Plus One.csproj", "{D967DFF3-4E06-4CB3-964C-FE9BB5444CE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_40. Combination Sum II", "Problem9_40. Combination Sum II\Problem9_40. Combination Sum II.csproj", "{767F8E60-587D-4835-A8BB-293B15C32AB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_64. Minimum Path Sum", "Problem9_64. Minimum Path Sum\Problem9_64. Minimum Path Sum.csproj", "{8F52D90B-E238-4BCC-BB68-6CF5B876DEEB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -291,6 +297,18 @@ Global
 		{E84A8BB8-04BF-4411-9163-A5DC6E8A20A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E84A8BB8-04BF-4411-9163-A5DC6E8A20A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E84A8BB8-04BF-4411-9163-A5DC6E8A20A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D967DFF3-4E06-4CB3-964C-FE9BB5444CE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D967DFF3-4E06-4CB3-964C-FE9BB5444CE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D967DFF3-4E06-4CB3-964C-FE9BB5444CE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D967DFF3-4E06-4CB3-964C-FE9BB5444CE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{767F8E60-587D-4835-A8BB-293B15C32AB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{767F8E60-587D-4835-A8BB-293B15C32AB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{767F8E60-587D-4835-A8BB-293B15C32AB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{767F8E60-587D-4835-A8BB-293B15C32AB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F52D90B-E238-4BCC-BB68-6CF5B876DEEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F52D90B-E238-4BCC-BB68-6CF5B876DEEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F52D90B-E238-4BCC-BB68-6CF5B876DEEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F52D90B-E238-4BCC-BB68-6CF5B876DEEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
