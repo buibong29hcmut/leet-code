@@ -2,20 +2,22 @@
 {
     public int MinPathSum(int[][] grid)
     {
-        
-        return Calculate(grid,0,0);
-    }
-    public  int Calculate(int[][] grid,int row,int col)
-    {
-        if (row == grid.Length  || col ==grid[0].Length)
-            return int.MaxValue;
-        if (row == grid.Length - 1 && col == grid[0].Length-1)
+        for (int i = 1; i < grid.Length; i++)
         {
-            return grid[row][col];
+            grid[i][0] += grid[i - 1][0];
         }
-        return grid[row][col] + Math.Min(Calculate(grid, row + 1, col), Calculate(grid, row, col + 1));
-
-
+        for (int j = 1; j < grid[0].Length; j++)
+        {
+            grid[0][j] += grid[0][j - 1];
+        }
+        for(int i = 1; i < grid.Length; i++)
+        {
+            for(int j = 1; j < grid[0].Length; j++)
+            {
+                grid[i][j] += Math.Min(grid[i - 1][j], grid[i][j - 1]);
+            }
+        }
+        return grid[grid.Length - 1][grid[0].Length - 1];
 
     }
 }
