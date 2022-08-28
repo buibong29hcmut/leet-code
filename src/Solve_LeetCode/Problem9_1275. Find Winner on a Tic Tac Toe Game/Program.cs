@@ -2,13 +2,12 @@
 {
     public string Tictactoe(int[][] moves)
     {
-        int count = 0;
-        int count1 = 0;
+ 
         int[,] matrixA = new int[3, 3];
         int[,] matrixB = new int[3, 3];
         for(int i = 0; i < moves.Length; i++)
-        {   int col = moves[i][moves[i][1]];
-            int row = moves[i][moves[i][0]];
+        {   int col = moves[i][0];
+            int row = moves[i][1];
             if (i % 2 == 0)
             {
                 matrixA[row, col] = 1;
