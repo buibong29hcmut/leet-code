@@ -20,7 +20,7 @@
         }
 
         int prev = -1;
-        for (int i = start; i < candidates.Length; i++)
+        for (int i = start; i < candidates.Length; i++)l
         {
             if (prev != candidates[i])
             { // each time start from different element
