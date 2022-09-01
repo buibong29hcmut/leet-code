@@ -105,11 +105,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_64. Minimum Path S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_1275. Find Winner on a Tic Tac Toe Game", "Problem9_1275. Find Winner on a Tic Tac Toe Game\Problem9_1275. Find Winner on a Tic Tac Toe Game.csproj", "{CF2F2E5D-04D8-4AFD-B528-C0073231E03A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_722. Remove Comments", "Problem9_722. Remove Comments\Problem9_722. Remove Comments.csproj", "{969E9025-C973-442D-B15E-ED760F78F3D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_722. Remove Comments", "Problem9_722. Remove Comments\Problem9_722. Remove Comments.csproj", "{969E9025-C973-442D-B15E-ED760F78F3D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_108. Convert Sorted Array to Binary Search Tree", "Problem9_108. Convert Sorted Array to Binary Search Tree\Problem9_108. Convert Sorted Array to Binary Search Tree.csproj", "{EFD86E29-3121-411C-B5A4-81B7B1DFB933}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_108. Convert Sorted Array to Binary Search Tree", "Problem9_108. Convert Sorted Array to Binary Search Tree\Problem9_108. Convert Sorted Array to Binary Search Tree.csproj", "{EFD86E29-3121-411C-B5A4-81B7B1DFB933}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_840. Magic Squares In Grid", "Problem9_840. Magic Squares In Grid\Problem9_840. Magic Squares In Grid.csproj", "{F6E0655D-3EE7-4E38-825C-1B4C75DD2017}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_840. Magic Squares In Grid", "Problem9_840. Magic Squares In Grid\Problem9_840. Magic Squares In Grid.csproj", "{F6E0655D-3EE7-4E38-825C-1B4C75DD2017}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_187. Repeated DNA Sequences", "Problem9_187. Repeated DNA Sequences\Problem9_187. Repeated DNA Sequences.csproj", "{6FA1F884-EE9E-4253-9249-0C262E0A2FD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_100. Same Tree", "Problem9_100. Same Tree\Problem9_100. Same Tree.csproj", "{F0F8B014-7A3B-40B0-AD3A-BCB34C9B8335}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_104. Maximum Depth of Binary Tree", "Problem9_104. Maximum Depth of Binary Tree\Problem9_104. Maximum Depth of Binary Tree.csproj", "{FCC25AE4-6ACC-4706-8033-CD8147993ACC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -333,6 +339,18 @@ Global
 		{F6E0655D-3EE7-4E38-825C-1B4C75DD2017}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6E0655D-3EE7-4E38-825C-1B4C75DD2017}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6E0655D-3EE7-4E38-825C-1B4C75DD2017}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FA1F884-EE9E-4253-9249-0C262E0A2FD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FA1F884-EE9E-4253-9249-0C262E0A2FD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FA1F884-EE9E-4253-9249-0C262E0A2FD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FA1F884-EE9E-4253-9249-0C262E0A2FD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0F8B014-7A3B-40B0-AD3A-BCB34C9B8335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0F8B014-7A3B-40B0-AD3A-BCB34C9B8335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0F8B014-7A3B-40B0-AD3A-BCB34C9B8335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0F8B014-7A3B-40B0-AD3A-BCB34C9B8335}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCC25AE4-6ACC-4706-8033-CD8147993ACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC25AE4-6ACC-4706-8033-CD8147993ACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC25AE4-6ACC-4706-8033-CD8147993ACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC25AE4-6ACC-4706-8033-CD8147993ACC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
