@@ -113,11 +113,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_840. Magic Squares
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_187. Repeated DNA Sequences", "Problem9_187. Repeated DNA Sequences\Problem9_187. Repeated DNA Sequences.csproj", "{6FA1F884-EE9E-4253-9249-0C262E0A2FD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_100. Same Tree", "Problem9_100. Same Tree\Problem9_100. Same Tree.csproj", "{F0F8B014-7A3B-40B0-AD3A-BCB34C9B8335}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_100. Same Tree", "Problem9_100. Same Tree\Problem9_100. Same Tree.csproj", "{F0F8B014-7A3B-40B0-AD3A-BCB34C9B8335}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_104. Maximum Depth of Binary Tree", "Problem9_104. Maximum Depth of Binary Tree\Problem9_104. Maximum Depth of Binary Tree.csproj", "{FCC25AE4-6ACC-4706-8033-CD8147993ACC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_104. Maximum Depth of Binary Tree", "Problem9_104. Maximum Depth of Binary Tree\Problem9_104. Maximum Depth of Binary Tree.csproj", "{FCC25AE4-6ACC-4706-8033-CD8147993ACC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_136. Single Number", "Problem9_136. Single Number\Problem9_136. Single Number.csproj", "{BFB7176B-75CF-43FD-BFF7-CB32C845DD4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_136. Single Number", "Problem9_136. Single Number\Problem9_136. Single Number.csproj", "{BFB7176B-75CF-43FD-BFF7-CB32C845DD4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_112. Path Sum", "Problem9_112. Path Sum\Problem9_112. Path Sum.csproj", "{13378B7F-3A7F-4E6C-A877-85EA1B645FD0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -357,6 +359,10 @@ Global
 		{BFB7176B-75CF-43FD-BFF7-CB32C845DD4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFB7176B-75CF-43FD-BFF7-CB32C845DD4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFB7176B-75CF-43FD-BFF7-CB32C845DD4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13378B7F-3A7F-4E6C-A877-85EA1B645FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13378B7F-3A7F-4E6C-A877-85EA1B645FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13378B7F-3A7F-4E6C-A877-85EA1B645FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13378B7F-3A7F-4E6C-A877-85EA1B645FD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
