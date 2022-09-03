@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_139. Word Break\bin\Debug\net6.0\Problem9_139. Word Break.exe
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_139. Word Break\bin\Debug\net6.0\Problem9_139. Word Break.deps.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_139. Word Break\bin\Debug\net6.0\Problem9_139. Word Break.runtimeconfig.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_139. Word Break\bin\Debug\net6.0\Problem9_139. Word Break.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_139. Word Break\bin\Debug\net6.0\Problem9_139. Word Break.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_139. Word Break\obj\Debug\net6.0\Problem9_139. Word Break.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_139. Word Break\obj\Debug\net6.0\Problem9_139. Word Break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_139. Word Break\obj\Debug\net6.0\Problem9_139. Word Break.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_139. Word Break\obj\Debug\net6.0\Problem9_139. Word Break.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_139. Word Break\obj\Debug\net6.0\Problem9_139. Word Break.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_139. Word Break\obj\Debug\net6.0\Problem9_139. Word Break.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_139. Word Break\obj\Debug\net6.0\refint\Problem9_139. Word Break.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_139. Word Break\obj\Debug\net6.0\Problem9_139. Word Break.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_139. Word Break\obj\Debug\net6.0\Problem9_139. Word Break.genruntimeconfig.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_139. Word Break\obj\Debug\net6.0\ref\Problem9_139. Word Break.dll
