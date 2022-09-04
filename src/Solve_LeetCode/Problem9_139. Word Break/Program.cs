@@ -2,18 +2,21 @@
 {
     public bool WordBreak(string s, IList<string> wordDict)
     {
-        int start = 0;
-        string result = "";
-        for(int i = 0; i < s.Length; i++)
+        return WordBreadEx(s, wordDict, 0);
+    }
+    public bool WordBreadEx(string s, IList<string> worDict,int end)
+    {   if (end>= s.Length)
+            return true;
+        if (s.Length == 1)
+            return worDict.Contains(s);
+        for(int i = end+1 ; i < s.Length; i++)
         {
-            string check = s.Substring(start, i - start+1);
-            if (wordDict.Contains(check))
+            if(worDict.Contains(s.Substring(end,i-end+1))&& WordBreadEx(s, worDict, i+1))
             {
-                result += check;
-                start = i + 1;
+                return true;
             }
         }
-        return result == s;
+        return false;
     }
     
 }
@@ -22,7 +25,7 @@ public class Program
    public static void Main()
     {
         Solution solution = new Solution();
-       var result= solution.WordBreak("aaaaaaa", new List<string>() { "aaaa", "aaa" });
+       var result= solution.WordBreak("ababcode", new List<string>() { "a","b","code" });
         Console.WriteLine(result);
     }
 }
