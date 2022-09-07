@@ -1,0 +1,5 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_240. Search a 2D Matrix II\obj\Debug\net6.0\Problem9_240. Search a 2D Matrix II.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_240. Search a 2D Matrix II\obj\Debug\net6.0\Problem9_240. Search a 2D Matrix II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_240. Search a 2D Matrix II\obj\Debug\net6.0\Problem9_240. Search a 2D Matrix II.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_240. Search a 2D Matrix II\obj\Debug\net6.0\Problem9_240. Search a 2D Matrix II.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_240. Search a 2D Matrix II\obj\Debug\net6.0\Problem9_240. Search a 2D Matrix II.csproj.CoreCompileInputs.cache

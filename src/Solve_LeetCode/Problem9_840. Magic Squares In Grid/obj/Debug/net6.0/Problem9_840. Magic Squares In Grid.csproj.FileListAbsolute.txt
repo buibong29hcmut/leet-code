@@ -1,0 +1,5 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_840. Magic Squares In Grid\obj\Debug\net6.0\Problem9_840. Magic Squares In Grid.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_840. Magic Squares In Grid\obj\Debug\net6.0\Problem9_840. Magic Squares In Grid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_840. Magic Squares In Grid\obj\Debug\net6.0\Problem9_840. Magic Squares In Grid.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_840. Magic Squares In Grid\obj\Debug\net6.0\Problem9_840. Magic Squares In Grid.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_840. Magic Squares In Grid\obj\Debug\net6.0\Problem9_840. Magic Squares In Grid.csproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_130. Surrounded Regions\obj\Debug\net6.0\Problem9_130. Surrounded Regions.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_130. Surrounded Regions\obj\Debug\net6.0\Problem9_130. Surrounded Regions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_130. Surrounded Regions\obj\Debug\net6.0\Problem9_130. Surrounded Regions.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_130. Surrounded Regions\obj\Debug\net6.0\Problem9_130. Surrounded Regions.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_130. Surrounded Regions\obj\Debug\net6.0\Problem9_130. Surrounded Regions.csproj.CoreCompileInputs.cache

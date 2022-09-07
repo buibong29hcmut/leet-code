@@ -1,0 +1,5 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_64. Minimum Path Sum\obj\Debug\net6.0\Problem9_64. Minimum Path Sum.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_64. Minimum Path Sum\obj\Debug\net6.0\Problem9_64. Minimum Path Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_64. Minimum Path Sum\obj\Debug\net6.0\Problem9_64. Minimum Path Sum.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_64. Minimum Path Sum\obj\Debug\net6.0\Problem9_64. Minimum Path Sum.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_64. Minimum Path Sum\obj\Debug\net6.0\Problem9_64. Minimum Path Sum.csproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_7. Letter Combinations of a Phone Number\obj\Debug\net6.0\Problem9_7. Letter Combinations of a Phone Number.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_7. Letter Combinations of a Phone Number\obj\Debug\net6.0\Problem9_7. Letter Combinations of a Phone Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_7. Letter Combinations of a Phone Number\obj\Debug\net6.0\Problem9_7. Letter Combinations of a Phone Number.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_7. Letter Combinations of a Phone Number\obj\Debug\net6.0\Problem9_7. Letter Combinations of a Phone Number.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_7. Letter Combinations of a Phone Number\obj\Debug\net6.0\Problem9_7. Letter Combinations of a Phone Number.csproj.CoreCompileInputs.cache

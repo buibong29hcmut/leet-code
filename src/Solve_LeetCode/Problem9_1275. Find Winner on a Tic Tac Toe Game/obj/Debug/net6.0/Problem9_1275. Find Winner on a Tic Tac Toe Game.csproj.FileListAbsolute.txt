@@ -1,0 +1,5 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_1275. Find Winner on a Tic Tac Toe Game\obj\Debug\net6.0\Problem9_1275. Find Winner on a Tic Tac Toe Game.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_1275. Find Winner on a Tic Tac Toe Game\obj\Debug\net6.0\Problem9_1275. Find Winner on a Tic Tac Toe Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_1275. Find Winner on a Tic Tac Toe Game\obj\Debug\net6.0\Problem9_1275. Find Winner on a Tic Tac Toe Game.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_1275. Find Winner on a Tic Tac Toe Game\obj\Debug\net6.0\Problem9_1275. Find Winner on a Tic Tac Toe Game.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_1275. Find Winner on a Tic Tac Toe Game\obj\Debug\net6.0\Problem9_1275. Find Winner on a Tic Tac Toe Game.csproj.CoreCompileInputs.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Problem9.242. Valid Anagram/1.0.0": {
+        "runtime": {
+          "Problem9.242. Valid Anagram.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problem9.242. Valid Anagram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

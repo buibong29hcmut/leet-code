@@ -1,0 +1,5 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_187. Repeated DNA Sequences\obj\Debug\net6.0\Problem9_187. Repeated DNA Sequences.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_187. Repeated DNA Sequences\obj\Debug\net6.0\Problem9_187. Repeated DNA Sequences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_187. Repeated DNA Sequences\obj\Debug\net6.0\Problem9_187. Repeated DNA Sequences.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_187. Repeated DNA Sequences\obj\Debug\net6.0\Problem9_187. Repeated DNA Sequences.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_187. Repeated DNA Sequences\obj\Debug\net6.0\Problem9_187. Repeated DNA Sequences.csproj.CoreCompileInputs.cache

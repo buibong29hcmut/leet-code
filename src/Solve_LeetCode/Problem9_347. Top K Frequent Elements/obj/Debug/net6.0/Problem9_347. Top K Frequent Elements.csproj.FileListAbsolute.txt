@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_347. Top K Frequent Elements\bin\Debug\net6.0\Problem9_347. Top K Frequent Elements.exe
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_347. Top K Frequent Elements\bin\Debug\net6.0\Problem9_347. Top K Frequent Elements.deps.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_347. Top K Frequent Elements\bin\Debug\net6.0\Problem9_347. Top K Frequent Elements.runtimeconfig.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_347. Top K Frequent Elements\bin\Debug\net6.0\Problem9_347. Top K Frequent Elements.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_347. Top K Frequent Elements\bin\Debug\net6.0\Problem9_347. Top K Frequent Elements.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_347. Top K Frequent Elements\obj\Debug\net6.0\Problem9_347. Top K Frequent Elements.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_347. Top K Frequent Elements\obj\Debug\net6.0\Problem9_347. Top K Frequent Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_347. Top K Frequent Elements\obj\Debug\net6.0\Problem9_347. Top K Frequent Elements.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_347. Top K Frequent Elements\obj\Debug\net6.0\Problem9_347. Top K Frequent Elements.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_347. Top K Frequent Elements\obj\Debug\net6.0\Problem9_347. Top K Frequent Elements.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_347. Top K Frequent Elements\obj\Debug\net6.0\Problem9_347. Top K Frequent Elements.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_347. Top K Frequent Elements\obj\Debug\net6.0\refint\Problem9_347. Top K Frequent Elements.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_347. Top K Frequent Elements\obj\Debug\net6.0\Problem9_347. Top K Frequent Elements.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_347. Top K Frequent Elements\obj\Debug\net6.0\Problem9_347. Top K Frequent Elements.genruntimeconfig.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_347. Top K Frequent Elements\obj\Debug\net6.0\ref\Problem9_347. Top K Frequent Elements.dll

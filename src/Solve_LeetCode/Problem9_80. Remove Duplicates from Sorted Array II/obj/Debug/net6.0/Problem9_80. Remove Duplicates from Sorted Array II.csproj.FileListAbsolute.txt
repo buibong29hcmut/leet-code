@@ -1,0 +1,5 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_80. Remove Duplicates from Sorted Array II\obj\Debug\net6.0\Problem9_80. Remove Duplicates from Sorted Array II.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_80. Remove Duplicates from Sorted Array II\obj\Debug\net6.0\Problem9_80. Remove Duplicates from Sorted Array II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_80. Remove Duplicates from Sorted Array II\obj\Debug\net6.0\Problem9_80. Remove Duplicates from Sorted Array II.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_80. Remove Duplicates from Sorted Array II\obj\Debug\net6.0\Problem9_80. Remove Duplicates from Sorted Array II.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_80. Remove Duplicates from Sorted Array II\obj\Debug\net6.0\Problem9_80. Remove Duplicates from Sorted Array II.csproj.CoreCompileInputs.cache
