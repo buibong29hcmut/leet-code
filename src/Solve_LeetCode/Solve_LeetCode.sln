@@ -129,7 +129,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_110. Balanced Bina
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_304. Range Sum Query 2D - Immutable", "Problem9_304. Range Sum Query 2D - Immutable\Problem9_304. Range Sum Query 2D - Immutable.csproj", "{58136F8D-F4B8-4805-9EA5-4B18A50CA794}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_316. Remove Duplicate Letters", "Problem9_316. Remove Duplicate Letters\Problem9_316. Remove Duplicate Letters.csproj", "{59AF7615-B579-435F-BCBC-4E768885FE84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_316. Remove Duplicate Letters", "Problem9_316. Remove Duplicate Letters\Problem9_316. Remove Duplicate Letters.csproj", "{59AF7615-B579-435F-BCBC-4E768885FE84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9.113. Path Sum II", "Problem9.113. Path Sum II\Problem9.113. Path Sum II.csproj", "{B3B1CCA0-7B80-42AC-9194-BAA98B8CF00C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -393,6 +395,10 @@ Global
 		{59AF7615-B579-435F-BCBC-4E768885FE84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59AF7615-B579-435F-BCBC-4E768885FE84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59AF7615-B579-435F-BCBC-4E768885FE84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3B1CCA0-7B80-42AC-9194-BAA98B8CF00C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3B1CCA0-7B80-42AC-9194-BAA98B8CF00C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3B1CCA0-7B80-42AC-9194-BAA98B8CF00C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3B1CCA0-7B80-42AC-9194-BAA98B8CF00C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
