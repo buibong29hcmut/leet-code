@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_129. Sum Root to Leaf Numbers\bin\Debug\net6.0\Problem9_129. Sum Root to Leaf Numbers.exe
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_129. Sum Root to Leaf Numbers\bin\Debug\net6.0\Problem9_129. Sum Root to Leaf Numbers.deps.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_129. Sum Root to Leaf Numbers\bin\Debug\net6.0\Problem9_129. Sum Root to Leaf Numbers.runtimeconfig.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_129. Sum Root to Leaf Numbers\bin\Debug\net6.0\Problem9_129. Sum Root to Leaf Numbers.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_129. Sum Root to Leaf Numbers\bin\Debug\net6.0\Problem9_129. Sum Root to Leaf Numbers.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_129. Sum Root to Leaf Numbers\obj\Debug\net6.0\Problem9_129. Sum Root to Leaf Numbers.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_129. Sum Root to Leaf Numbers\obj\Debug\net6.0\Problem9_129. Sum Root to Leaf Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_129. Sum Root to Leaf Numbers\obj\Debug\net6.0\Problem9_129. Sum Root to Leaf Numbers.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_129. Sum Root to Leaf Numbers\obj\Debug\net6.0\Problem9_129. Sum Root to Leaf Numbers.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_129. Sum Root to Leaf Numbers\obj\Debug\net6.0\Problem9_129. Sum Root to Leaf Numbers.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_129. Sum Root to Leaf Numbers\obj\Debug\net6.0\Problem9_129. Sum Root to Leaf Numbers.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_129. Sum Root to Leaf Numbers\obj\Debug\net6.0\refint\Problem9_129. Sum Root to Leaf Numbers.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_129. Sum Root to Leaf Numbers\obj\Debug\net6.0\Problem9_129. Sum Root to Leaf Numbers.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_129. Sum Root to Leaf Numbers\obj\Debug\net6.0\Problem9_129. Sum Root to Leaf Numbers.genruntimeconfig.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_129. Sum Root to Leaf Numbers\obj\Debug\net6.0\ref\Problem9_129. Sum Root to Leaf Numbers.dll
