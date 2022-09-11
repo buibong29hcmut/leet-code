@@ -133,7 +133,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_316. Remove Duplic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9.113. Path Sum II", "Problem9.113. Path Sum II\Problem9.113. Path Sum II.csproj", "{B3B1CCA0-7B80-42AC-9194-BAA98B8CF00C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_129. Sum Root to Leaf Numbers", "Problem9_129. Sum Root to Leaf Numbers\Problem9_129. Sum Root to Leaf Numbers.csproj", "{46DBEF14-7964-4E6C-98E0-B3B35D944FA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem9_129. Sum Root to Leaf Numbers", "Problem9_129. Sum Root to Leaf Numbers\Problem9_129. Sum Root to Leaf Numbers.csproj", "{46DBEF14-7964-4E6C-98E0-B3B35D944FA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem9_62. Unique Paths", "Problem9_62. Unique Paths\Problem9_62. Unique Paths.csproj", "{A6EB6BF8-2C89-4966-9D3C-F70D888A2156}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -405,6 +407,10 @@ Global
 		{46DBEF14-7964-4E6C-98E0-B3B35D944FA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46DBEF14-7964-4E6C-98E0-B3B35D944FA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46DBEF14-7964-4E6C-98E0-B3B35D944FA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6EB6BF8-2C89-4966-9D3C-F70D888A2156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6EB6BF8-2C89-4966-9D3C-F70D888A2156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6EB6BF8-2C89-4966-9D3C-F70D888A2156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6EB6BF8-2C89-4966-9D3C-F70D888A2156}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
