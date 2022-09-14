@@ -2,40 +2,43 @@
 {
     public int UniquePathsWithObstacles(int[][] obstacleGrid)
     {
-        for(int i = 0; i < obstacleGrid.Length; i++)
+        int[,] dp= new int[obstacleGrid.Length, obstacleGrid[0].Length];
+        if (obstacleGrid == null || obstacleGrid.Length == 0)
+            return 0;
+        for (int i = 0; i < obstacleGrid[0].Length; i++)
         {
-            for(int j = 0; j < obstacleGrid[0].Length; j++)
+            if (obstacleGrid[0][i] == 0)
             {
-                //if (i == 0&& obstacleGrid[i][j]==0)
-                //{
-                //    obstacleGrid[i][j] = 1;
-                //}
-                //if (j == 0 && obstacleGrid[i][j] == 0)
-                //{
-                //    obstacleGrid[i][j] = 1;
+                dp[0, i] = 1;
 
-                //}
-                if(obstacleGrid[i][j] == 0)
-                {
-                    obstacleGrid[i][j] = 1;
-                }
-                else
-                {
-                    obstacleGrid[i][j] = 0;
-                }
-              
+            }
+            else
+                break;
+        }
+        for (int i = 0; i < obstacleGrid.Length; i++)
+        {
+            if (obstacleGrid[i][0] == 0)
+            {
+                dp[i, 0] = 1;
+
+            }
+            else
+            {
+                break;
             }
         }
-        for(int i = 1; i < obstacleGrid.Length; i++)
+        for(int i = 1; i < obstacleGrid.Length;i++)
         {
-            for(int j = 1; j < obstacleGrid.Length; j++)
+            for(int j = 1; j < obstacleGrid[0].Length; j++)
             {
                 if (obstacleGrid[i][j] == 0)
-                    continue;
-                obstacleGrid[i][j] = obstacleGrid[i - 1][j] + obstacleGrid[i][j-1];
+                {
+                    dp[i, j] = dp[i, j - 1] + dp[i - 1, j];
+
+                }
             }
         }
-        return obstacleGrid[obstacleGrid.Length - 1][obstacleGrid[0].Length - 1];
+        return dp[obstacleGrid.Length-1,obstacleGrid[0].Length-1];
     }
 }
 public class Program
@@ -43,10 +46,10 @@ public class Program
     public static void Main()
     {
         int[][] arr = new int[][]
-        {
-            new int[]{0,0,0},
-            new int[]{0,1,0},
-            new int[]{0,0,0},
+        {    new int[]{1,0}
+            //new int[]{0,0,0},
+            //new int[]{0,1,0},
+            //new int[]{0,0,0},
         };
         Console.WriteLine(new Solution().UniquePathsWithObstacles(arr));
     }
