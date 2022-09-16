@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Problem9_2007. Find Original Array From Doubled Array/1.0.0": {
+        "runtime": {
+          "Problem9_2007. Find Original Array From Doubled Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problem9_2007. Find Original Array From Doubled Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
