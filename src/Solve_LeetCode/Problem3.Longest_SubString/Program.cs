@@ -1,17 +1,19 @@
 ﻿ int LengthOfLongestSubstring(string s)
 {
-    int result = 0;
-    Dictionary<int, int> map = new Dictionary<int, int>();
-    for (int j = 0, i = 0; j < s.Length; j++)
+    int result = -1;
+    for(int i = 0; i < s.Length; i++)
     {
-        if (map.ContainsKey(s[j]))
+        HashSet<int> hash = new HashSet<int>();
+        hash.Add(s[i]);
+        int j = i + 1;
+        while (j<s.Length&&!hash.Contains(s[j]) )
         {
-            i = Math.Min(j, map[s[j]]);
+            hash.Add(s[j]);
+            j++;
         }
-        result = Math.Max(result, j - i + 1);
-        map.Add(s[j], j+1);
+        result = Math.Max(result, j - i );
     }
     return result;
 }
-var result= LengthOfLongestSubstring("aab");
+var result= LengthOfLongestSubstring("pwwkew");
 Console.WriteLine(result);
