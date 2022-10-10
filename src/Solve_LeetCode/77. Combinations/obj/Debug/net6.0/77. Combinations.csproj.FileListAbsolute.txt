@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\77. Combinations\bin\Debug\net6.0\77. Combinations.exe
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\77. Combinations\bin\Debug\net6.0\77. Combinations.deps.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\77. Combinations\bin\Debug\net6.0\77. Combinations.runtimeconfig.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\77. Combinations\bin\Debug\net6.0\77. Combinations.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\77. Combinations\bin\Debug\net6.0\77. Combinations.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\77. Combinations\obj\Debug\net6.0\77. Combinations.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\77. Combinations\obj\Debug\net6.0\77. Combinations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\77. Combinations\obj\Debug\net6.0\77. Combinations.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\77. Combinations\obj\Debug\net6.0\77. Combinations.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\77. Combinations\obj\Debug\net6.0\77. Combinations.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\77. Combinations\obj\Debug\net6.0\77. Combinations.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\77. Combinations\obj\Debug\net6.0\refint\77. Combinations.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\77. Combinations\obj\Debug\net6.0\77. Combinations.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\77. Combinations\obj\Debug\net6.0\77. Combinations.genruntimeconfig.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\77. Combinations\obj\Debug\net6.0\ref\77. Combinations.dll
