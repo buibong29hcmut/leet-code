@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem143. Reorder List\obj\Debug\net6.0\Problem143. Reorder List.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem143. Reorder List\obj\Debug\net6.0\Problem143. Reorder List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem143. Reorder List\obj\Debug\net6.0\Problem143. Reorder List.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem143. Reorder List\obj\Debug\net6.0\Problem143. Reorder List.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem143. Reorder List\obj\Debug\net6.0\Problem143. Reorder List.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem143. Reorder List\bin\Debug\net6.0\Problem143. Reorder List.exe
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem143. Reorder List\bin\Debug\net6.0\Problem143. Reorder List.deps.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem143. Reorder List\bin\Debug\net6.0\Problem143. Reorder List.runtimeconfig.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem143. Reorder List\bin\Debug\net6.0\Problem143. Reorder List.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem143. Reorder List\bin\Debug\net6.0\Problem143. Reorder List.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem143. Reorder List\obj\Debug\net6.0\Problem143. Reorder List.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem143. Reorder List\obj\Debug\net6.0\refint\Problem143. Reorder List.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem143. Reorder List\obj\Debug\net6.0\Problem143. Reorder List.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem143. Reorder List\obj\Debug\net6.0\Problem143. Reorder List.genruntimeconfig.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem143. Reorder List\obj\Debug\net6.0\ref\Problem143. Reorder List.dll
