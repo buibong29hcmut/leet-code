@@ -155,7 +155,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "155. Min Stack", "155. Min 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1662. Check If Two String Arrays are Equivalent", "1662. Check If Two String Arrays are Equivalent\1662. Check If Two String Arrays are Equivalent.csproj", "{F4194E15-8A1E-4D0F-B21A-9CE8EBF58845}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "227. Basic CalculatorII", "227. Basic CalculatorII\227. Basic CalculatorII.csproj", "{D3207350-DD42-4933-B4A4-87F39AC4D3AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "227. Basic CalculatorII", "227. Basic CalculatorII\227. Basic CalculatorII.csproj", "{D3207350-DD42-4933-B4A4-87F39AC4D3AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2446. Determine if Two Events Have Conflict", "2446. Determine if Two Events Have Conflict\2446. Determine if Two Events Have Conflict.csproj", "{FCF00ACB-74CE-47F7-84D2-CE23E561D5D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -471,6 +473,10 @@ Global
 		{D3207350-DD42-4933-B4A4-87F39AC4D3AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3207350-DD42-4933-B4A4-87F39AC4D3AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3207350-DD42-4933-B4A4-87F39AC4D3AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCF00ACB-74CE-47F7-84D2-CE23E561D5D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF00ACB-74CE-47F7-84D2-CE23E561D5D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF00ACB-74CE-47F7-84D2-CE23E561D5D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF00ACB-74CE-47F7-84D2-CE23E561D5D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
