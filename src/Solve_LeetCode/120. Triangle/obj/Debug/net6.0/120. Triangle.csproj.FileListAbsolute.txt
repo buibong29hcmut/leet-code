@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\120. Triangle\bin\Debug\net6.0\120. Triangle.exe
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\120. Triangle\bin\Debug\net6.0\120. Triangle.deps.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\120. Triangle\bin\Debug\net6.0\120. Triangle.runtimeconfig.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\120. Triangle\bin\Debug\net6.0\120. Triangle.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\120. Triangle\bin\Debug\net6.0\120. Triangle.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\120. Triangle\obj\Debug\net6.0\120. Triangle.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\120. Triangle\obj\Debug\net6.0\120. Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\120. Triangle\obj\Debug\net6.0\120. Triangle.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\120. Triangle\obj\Debug\net6.0\120. Triangle.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\120. Triangle\obj\Debug\net6.0\120. Triangle.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\120. Triangle\obj\Debug\net6.0\120. Triangle.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\120. Triangle\obj\Debug\net6.0\refint\120. Triangle.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\120. Triangle\obj\Debug\net6.0\120. Triangle.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\120. Triangle\obj\Debug\net6.0\120. Triangle.genruntimeconfig.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\120. Triangle\obj\Debug\net6.0\ref\120. Triangle.dll
