@@ -161,6 +161,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2446. Determine if Two Even
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "167. Two Sum II - Input Array Is Sorted", "167. Two Sum II - Input Array Is Sorted\167. Two Sum II - Input Array Is Sorted.csproj", "{77B7DCBA-EECE-4EB6-9608-220F9A409EC7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "118. Pascal's Triangle", "118. Pascal's Triangle\118. Pascal's Triangle.csproj", "{0E5B0AF7-8422-4D9B-824E-0DDADB95F97B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -483,6 +485,10 @@ Global
 		{77B7DCBA-EECE-4EB6-9608-220F9A409EC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77B7DCBA-EECE-4EB6-9608-220F9A409EC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77B7DCBA-EECE-4EB6-9608-220F9A409EC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E5B0AF7-8422-4D9B-824E-0DDADB95F97B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E5B0AF7-8422-4D9B-824E-0DDADB95F97B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E5B0AF7-8422-4D9B-824E-0DDADB95F97B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E5B0AF7-8422-4D9B-824E-0DDADB95F97B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
