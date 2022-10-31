@@ -159,11 +159,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "227. Basic CalculatorII", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2446. Determine if Two Events Have Conflict", "2446. Determine if Two Events Have Conflict\2446. Determine if Two Events Have Conflict.csproj", "{FCF00ACB-74CE-47F7-84D2-CE23E561D5D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "167. Two Sum II - Input Array Is Sorted", "167. Two Sum II - Input Array Is Sorted\167. Two Sum II - Input Array Is Sorted.csproj", "{77B7DCBA-EECE-4EB6-9608-220F9A409EC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "167. Two Sum II - Input Array Is Sorted", "167. Two Sum II - Input Array Is Sorted\167. Two Sum II - Input Array Is Sorted.csproj", "{77B7DCBA-EECE-4EB6-9608-220F9A409EC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "118. Pascal's Triangle", "118. Pascal's Triangle\118. Pascal's Triangle.csproj", "{0E5B0AF7-8422-4D9B-824E-0DDADB95F97B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "118. Pascal's Triangle", "118. Pascal's Triangle\118. Pascal's Triangle.csproj", "{0E5B0AF7-8422-4D9B-824E-0DDADB95F97B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "120. Triangle", "120. Triangle\120. Triangle.csproj", "{40348BB3-3051-4C2E-9B60-2B8B4A3B8A8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "120. Triangle", "120. Triangle\120. Triangle.csproj", "{40348BB3-3051-4C2E-9B60-2B8B4A3B8A8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "766. Toeplitz Matrix", "766. Toeplitz Matrix\766. Toeplitz Matrix.csproj", "{B592FC58-EB53-47CF-9B29-E9D837A465D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -495,6 +497,10 @@ Global
 		{40348BB3-3051-4C2E-9B60-2B8B4A3B8A8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40348BB3-3051-4C2E-9B60-2B8B4A3B8A8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40348BB3-3051-4C2E-9B60-2B8B4A3B8A8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B592FC58-EB53-47CF-9B29-E9D837A465D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B592FC58-EB53-47CF-9B29-E9D837A465D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B592FC58-EB53-47CF-9B29-E9D837A465D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B592FC58-EB53-47CF-9B29-E9D837A465D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
