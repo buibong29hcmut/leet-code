@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\1034. Coloring A Border\bin\Debug\net6.0\1034. Coloring A Border.exe
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\1034. Coloring A Border\bin\Debug\net6.0\1034. Coloring A Border.deps.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\1034. Coloring A Border\bin\Debug\net6.0\1034. Coloring A Border.runtimeconfig.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\1034. Coloring A Border\bin\Debug\net6.0\1034. Coloring A Border.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\1034. Coloring A Border\bin\Debug\net6.0\1034. Coloring A Border.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\1034. Coloring A Border\obj\Debug\net6.0\1034. Coloring A Border.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\1034. Coloring A Border\obj\Debug\net6.0\1034. Coloring A Border.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\1034. Coloring A Border\obj\Debug\net6.0\1034. Coloring A Border.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\1034. Coloring A Border\obj\Debug\net6.0\1034. Coloring A Border.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\1034. Coloring A Border\obj\Debug\net6.0\1034. Coloring A Border.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\1034. Coloring A Border\obj\Debug\net6.0\1034. Coloring A Border.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\1034. Coloring A Border\obj\Debug\net6.0\refint\1034. Coloring A Border.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\1034. Coloring A Border\obj\Debug\net6.0\1034. Coloring A Border.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\1034. Coloring A Border\obj\Debug\net6.0\1034. Coloring A Border.genruntimeconfig.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\1034. Coloring A Border\obj\Debug\net6.0\ref\1034. Coloring A Border.dll
