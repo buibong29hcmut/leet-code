@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\137. Single Number II\bin\Debug\net7.0\137. Single Number II.exe
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\137. Single Number II\bin\Debug\net7.0\137. Single Number II.deps.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\137. Single Number II\bin\Debug\net7.0\137. Single Number II.runtimeconfig.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\137. Single Number II\bin\Debug\net7.0\137. Single Number II.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\137. Single Number II\bin\Debug\net7.0\137. Single Number II.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\137. Single Number II\obj\Debug\net7.0\137. Single Number II.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\137. Single Number II\obj\Debug\net7.0\137. Single Number II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\137. Single Number II\obj\Debug\net7.0\137. Single Number II.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\137. Single Number II\obj\Debug\net7.0\137. Single Number II.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\137. Single Number II\obj\Debug\net7.0\137. Single Number II.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\137. Single Number II\obj\Debug\net7.0\137. Single Number II.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\137. Single Number II\obj\Debug\net7.0\refint\137. Single Number II.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\137. Single Number II\obj\Debug\net7.0\137. Single Number II.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\137. Single Number II\obj\Debug\net7.0\137. Single Number II.genruntimeconfig.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\137. Single Number II\obj\Debug\net7.0\ref\137. Single Number II.dll

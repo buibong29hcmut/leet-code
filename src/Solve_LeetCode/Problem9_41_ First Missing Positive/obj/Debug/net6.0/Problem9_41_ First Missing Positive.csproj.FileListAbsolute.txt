@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_41_ First Missing Positive\bin\Debug\net6.0\Problem9_41_ First Missing Positive.exe
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_41_ First Missing Positive\bin\Debug\net6.0\Problem9_41_ First Missing Positive.deps.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_41_ First Missing Positive\bin\Debug\net6.0\Problem9_41_ First Missing Positive.runtimeconfig.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_41_ First Missing Positive\bin\Debug\net6.0\Problem9_41_ First Missing Positive.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_41_ First Missing Positive\bin\Debug\net6.0\Problem9_41_ First Missing Positive.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_41_ First Missing Positive\obj\Debug\net6.0\Problem9_41_ First Missing Positive.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_41_ First Missing Positive\obj\Debug\net6.0\Problem9_41_ First Missing Positive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_41_ First Missing Positive\obj\Debug\net6.0\Problem9_41_ First Missing Positive.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_41_ First Missing Positive\obj\Debug\net6.0\Problem9_41_ First Missing Positive.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_41_ First Missing Positive\obj\Debug\net6.0\Problem9_41_ First Missing Positive.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_41_ First Missing Positive\obj\Debug\net6.0\Problem9_41_ First Missing Positive.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_41_ First Missing Positive\obj\Debug\net6.0\refint\Problem9_41_ First Missing Positive.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_41_ First Missing Positive\obj\Debug\net6.0\Problem9_41_ First Missing Positive.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_41_ First Missing Positive\obj\Debug\net6.0\Problem9_41_ First Missing Positive.genruntimeconfig.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_41_ First Missing Positive\obj\Debug\net6.0\ref\Problem9_41_ First Missing Positive.dll

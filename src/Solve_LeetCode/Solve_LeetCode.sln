@@ -173,7 +173,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1034. Coloring A Border", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "149. Max Points on a Line", "149. Max Points on a Line\149. Max Points on a Line.csproj", "{D3D033AF-A152-44B8-A5B6-7A7525CBC370}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "122. Best Time to Buy and Sell Stock II", "122. Best Time to Buy and Sell Stock II\122. Best Time to Buy and Sell Stock II.csproj", "{202040BD-867C-4494-8F23-6793C39FEF25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "122. Best Time to Buy and Sell Stock II", "122. Best Time to Buy and Sell Stock II\122. Best Time to Buy and Sell Stock II.csproj", "{202040BD-867C-4494-8F23-6793C39FEF25}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "394. Decode String", "394. Decode String\394. Decode String.csproj", "{D9521488-BA83-44FA-B579-F69B94A06B9B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "221. Maximal Square", "221. Maximal Square\221. Maximal Square.csproj", "{CD3C113A-AEF8-43C8-991E-E3344BD53C77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "137. Single Number II", "137. Single Number II\137. Single Number II.csproj", "{EDDCF8FD-6706-4467-85C0-E961417D7E37}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -525,6 +531,18 @@ Global
 		{202040BD-867C-4494-8F23-6793C39FEF25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{202040BD-867C-4494-8F23-6793C39FEF25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{202040BD-867C-4494-8F23-6793C39FEF25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9521488-BA83-44FA-B579-F69B94A06B9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9521488-BA83-44FA-B579-F69B94A06B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9521488-BA83-44FA-B579-F69B94A06B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9521488-BA83-44FA-B579-F69B94A06B9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD3C113A-AEF8-43C8-991E-E3344BD53C77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD3C113A-AEF8-43C8-991E-E3344BD53C77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD3C113A-AEF8-43C8-991E-E3344BD53C77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD3C113A-AEF8-43C8-991E-E3344BD53C77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDDCF8FD-6706-4467-85C0-E961417D7E37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDDCF8FD-6706-4467-85C0-E961417D7E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDDCF8FD-6706-4467-85C0-E961417D7E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDDCF8FD-6706-4467-85C0-E961417D7E37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

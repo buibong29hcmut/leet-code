@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Problem9_41_ First Missing Positive/1.0.0": {
+        "runtime": {
+          "Problem9_41_ First Missing Positive.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problem9_41_ First Missing Positive/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

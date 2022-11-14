@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_36_Valid_Sodoku\bin\Debug\net6.0\Problem9_36_Valid_Sodoku.exe
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_36_Valid_Sodoku\bin\Debug\net6.0\Problem9_36_Valid_Sodoku.deps.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_36_Valid_Sodoku\bin\Debug\net6.0\Problem9_36_Valid_Sodoku.runtimeconfig.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_36_Valid_Sodoku\bin\Debug\net6.0\Problem9_36_Valid_Sodoku.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_36_Valid_Sodoku\bin\Debug\net6.0\Problem9_36_Valid_Sodoku.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_36_Valid_Sodoku\obj\Debug\net6.0\Problem9_36_Valid_Sodoku.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_36_Valid_Sodoku\obj\Debug\net6.0\Problem9_36_Valid_Sodoku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_36_Valid_Sodoku\obj\Debug\net6.0\Problem9_36_Valid_Sodoku.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_36_Valid_Sodoku\obj\Debug\net6.0\Problem9_36_Valid_Sodoku.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_36_Valid_Sodoku\obj\Debug\net6.0\Problem9_36_Valid_Sodoku.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_36_Valid_Sodoku\obj\Debug\net6.0\Problem9_36_Valid_Sodoku.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_36_Valid_Sodoku\obj\Debug\net6.0\refint\Problem9_36_Valid_Sodoku.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_36_Valid_Sodoku\obj\Debug\net6.0\Problem9_36_Valid_Sodoku.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_36_Valid_Sodoku\obj\Debug\net6.0\Problem9_36_Valid_Sodoku.genruntimeconfig.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_36_Valid_Sodoku\obj\Debug\net6.0\ref\Problem9_36_Valid_Sodoku.dll

@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.290. Word Pattern\bin\Debug\net6.0\Problem9.290. Word Pattern.exe
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.290. Word Pattern\bin\Debug\net6.0\Problem9.290. Word Pattern.deps.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.290. Word Pattern\bin\Debug\net6.0\Problem9.290. Word Pattern.runtimeconfig.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.290. Word Pattern\bin\Debug\net6.0\Problem9.290. Word Pattern.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.290. Word Pattern\bin\Debug\net6.0\Problem9.290. Word Pattern.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.290. Word Pattern\obj\Debug\net6.0\Problem9.290. Word Pattern.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.290. Word Pattern\obj\Debug\net6.0\Problem9.290. Word Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.290. Word Pattern\obj\Debug\net6.0\Problem9.290. Word Pattern.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.290. Word Pattern\obj\Debug\net6.0\Problem9.290. Word Pattern.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.290. Word Pattern\obj\Debug\net6.0\Problem9.290. Word Pattern.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.290. Word Pattern\obj\Debug\net6.0\Problem9.290. Word Pattern.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.290. Word Pattern\obj\Debug\net6.0\refint\Problem9.290. Word Pattern.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.290. Word Pattern\obj\Debug\net6.0\Problem9.290. Word Pattern.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.290. Word Pattern\obj\Debug\net6.0\Problem9.290. Word Pattern.genruntimeconfig.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.290. Word Pattern\obj\Debug\net6.0\ref\Problem9.290. Word Pattern.dll

@@ -1,0 +1,5 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\2446. Determine if Two Events Have Conflict\obj\Debug\net6.0\2446. Determine if Two Events Have Conflict.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\2446. Determine if Two Events Have Conflict\obj\Debug\net6.0\2446. Determine if Two Events Have Conflict.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\2446. Determine if Two Events Have Conflict\obj\Debug\net6.0\2446. Determine if Two Events Have Conflict.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\2446. Determine if Two Events Have Conflict\obj\Debug\net6.0\2446. Determine if Two Events Have Conflict.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\2446. Determine if Two Events Have Conflict\obj\Debug\net6.0\2446. Determine if Two Events Have Conflict.csproj.CoreCompileInputs.cache

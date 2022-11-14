@@ -1,0 +1,5 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\1662. Check If Two String Arrays are Equivalent\obj\Debug\net6.0\1662. Check If Two String Arrays are Equivalent.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\1662. Check If Two String Arrays are Equivalent\obj\Debug\net6.0\1662. Check If Two String Arrays are Equivalent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\1662. Check If Two String Arrays are Equivalent\obj\Debug\net6.0\1662. Check If Two String Arrays are Equivalent.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\1662. Check If Two String Arrays are Equivalent\obj\Debug\net6.0\1662. Check If Two String Arrays are Equivalent.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\1662. Check If Two String Arrays are Equivalent\obj\Debug\net6.0\1662. Check If Two String Arrays are Equivalent.csproj.CoreCompileInputs.cache

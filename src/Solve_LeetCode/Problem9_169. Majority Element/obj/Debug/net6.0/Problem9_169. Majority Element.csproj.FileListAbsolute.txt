@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_169. Majority Element\bin\Debug\net6.0\Problem9_169. Majority Element.exe
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_169. Majority Element\bin\Debug\net6.0\Problem9_169. Majority Element.deps.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_169. Majority Element\bin\Debug\net6.0\Problem9_169. Majority Element.runtimeconfig.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_169. Majority Element\bin\Debug\net6.0\Problem9_169. Majority Element.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_169. Majority Element\bin\Debug\net6.0\Problem9_169. Majority Element.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_169. Majority Element\obj\Debug\net6.0\Problem9_169. Majority Element.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_169. Majority Element\obj\Debug\net6.0\Problem9_169. Majority Element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_169. Majority Element\obj\Debug\net6.0\Problem9_169. Majority Element.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_169. Majority Element\obj\Debug\net6.0\Problem9_169. Majority Element.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_169. Majority Element\obj\Debug\net6.0\Problem9_169. Majority Element.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_169. Majority Element\obj\Debug\net6.0\Problem9_169. Majority Element.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_169. Majority Element\obj\Debug\net6.0\refint\Problem9_169. Majority Element.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_169. Majority Element\obj\Debug\net6.0\Problem9_169. Majority Element.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_169. Majority Element\obj\Debug\net6.0\Problem9_169. Majority Element.genruntimeconfig.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_169. Majority Element\obj\Debug\net6.0\ref\Problem9_169. Majority Element.dll

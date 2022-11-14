@@ -1,0 +1,5 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\118. Pascal's Triangle\obj\Debug\net6.0\118. Pascal's Triangle.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\118. Pascal's Triangle\obj\Debug\net6.0\118. Pascal's Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\118. Pascal's Triangle\obj\Debug\net6.0\118. Pascal's Triangle.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\118. Pascal's Triangle\obj\Debug\net6.0\118. Pascal's Triangle.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\118. Pascal's Triangle\obj\Debug\net6.0\118. Pascal's Triangle.csproj.CoreCompileInputs.cache

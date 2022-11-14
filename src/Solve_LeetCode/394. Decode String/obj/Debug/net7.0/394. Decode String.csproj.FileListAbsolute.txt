@@ -1,0 +1,5 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\394. Decode String\obj\Debug\net7.0\394. Decode String.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\394. Decode String\obj\Debug\net7.0\394. Decode String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\394. Decode String\obj\Debug\net7.0\394. Decode String.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\394. Decode String\obj\Debug\net7.0\394. Decode String.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\394. Decode String\obj\Debug\net7.0\394. Decode String.csproj.CoreCompileInputs.cache

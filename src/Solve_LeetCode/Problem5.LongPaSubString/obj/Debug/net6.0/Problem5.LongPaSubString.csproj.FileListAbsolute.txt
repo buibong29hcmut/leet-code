@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem5.LongPaSubString\bin\Debug\net6.0\Problem5.LongPaSubString.exe
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem5.LongPaSubString\bin\Debug\net6.0\Problem5.LongPaSubString.deps.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem5.LongPaSubString\bin\Debug\net6.0\Problem5.LongPaSubString.runtimeconfig.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem5.LongPaSubString\bin\Debug\net6.0\Problem5.LongPaSubString.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem5.LongPaSubString\bin\Debug\net6.0\Problem5.LongPaSubString.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem5.LongPaSubString\obj\Debug\net6.0\Problem5.LongPaSubString.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem5.LongPaSubString\obj\Debug\net6.0\Problem5.LongPaSubString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem5.LongPaSubString\obj\Debug\net6.0\Problem5.LongPaSubString.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem5.LongPaSubString\obj\Debug\net6.0\Problem5.LongPaSubString.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem5.LongPaSubString\obj\Debug\net6.0\Problem5.LongPaSubString.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem5.LongPaSubString\obj\Debug\net6.0\Problem5.LongPaSubString.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem5.LongPaSubString\obj\Debug\net6.0\refint\Problem5.LongPaSubString.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem5.LongPaSubString\obj\Debug\net6.0\Problem5.LongPaSubString.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem5.LongPaSubString\obj\Debug\net6.0\Problem5.LongPaSubString.genruntimeconfig.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem5.LongPaSubString\obj\Debug\net6.0\ref\Problem5.LongPaSubString.dll

@@ -1,0 +1,5 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\221. Maximal Square\obj\Debug\net7.0\221. Maximal Square.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\221. Maximal Square\obj\Debug\net7.0\221. Maximal Square.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\221. Maximal Square\obj\Debug\net7.0\221. Maximal Square.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\221. Maximal Square\obj\Debug\net7.0\221. Maximal Square.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\221. Maximal Square\obj\Debug\net7.0\221. Maximal Square.csproj.CoreCompileInputs.cache

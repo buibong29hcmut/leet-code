@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_74.Search _A_2D_Matrix\bin\Debug\net6.0\Problem9_74.Search _A_2D_Matrix.exe
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_74.Search _A_2D_Matrix\bin\Debug\net6.0\Problem9_74.Search _A_2D_Matrix.deps.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_74.Search _A_2D_Matrix\bin\Debug\net6.0\Problem9_74.Search _A_2D_Matrix.runtimeconfig.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_74.Search _A_2D_Matrix\bin\Debug\net6.0\Problem9_74.Search _A_2D_Matrix.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_74.Search _A_2D_Matrix\bin\Debug\net6.0\Problem9_74.Search _A_2D_Matrix.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_74.Search _A_2D_Matrix\obj\Debug\net6.0\Problem9_74.Search _A_2D_Matrix.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_74.Search _A_2D_Matrix\obj\Debug\net6.0\Problem9_74.Search _A_2D_Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_74.Search _A_2D_Matrix\obj\Debug\net6.0\Problem9_74.Search _A_2D_Matrix.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_74.Search _A_2D_Matrix\obj\Debug\net6.0\Problem9_74.Search _A_2D_Matrix.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_74.Search _A_2D_Matrix\obj\Debug\net6.0\Problem9_74.Search _A_2D_Matrix.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_74.Search _A_2D_Matrix\obj\Debug\net6.0\Problem9_74.Search _A_2D_Matrix.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_74.Search _A_2D_Matrix\obj\Debug\net6.0\refint\Problem9_74.Search _A_2D_Matrix.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_74.Search _A_2D_Matrix\obj\Debug\net6.0\Problem9_74.Search _A_2D_Matrix.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_74.Search _A_2D_Matrix\obj\Debug\net6.0\Problem9_74.Search _A_2D_Matrix.genruntimeconfig.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_74.Search _A_2D_Matrix\obj\Debug\net6.0\ref\Problem9_74.Search _A_2D_Matrix.dll

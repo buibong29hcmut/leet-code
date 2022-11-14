@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_229.Majority Element II\bin\Debug\net6.0\Problem9_229.Majority Element II.exe
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_229.Majority Element II\bin\Debug\net6.0\Problem9_229.Majority Element II.deps.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_229.Majority Element II\bin\Debug\net6.0\Problem9_229.Majority Element II.runtimeconfig.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_229.Majority Element II\bin\Debug\net6.0\Problem9_229.Majority Element II.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_229.Majority Element II\bin\Debug\net6.0\Problem9_229.Majority Element II.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_229.Majority Element II\obj\Debug\net6.0\Problem9_229.Majority Element II.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_229.Majority Element II\obj\Debug\net6.0\Problem9_229.Majority Element II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_229.Majority Element II\obj\Debug\net6.0\Problem9_229.Majority Element II.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_229.Majority Element II\obj\Debug\net6.0\Problem9_229.Majority Element II.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_229.Majority Element II\obj\Debug\net6.0\Problem9_229.Majority Element II.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_229.Majority Element II\obj\Debug\net6.0\Problem9_229.Majority Element II.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_229.Majority Element II\obj\Debug\net6.0\refint\Problem9_229.Majority Element II.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_229.Majority Element II\obj\Debug\net6.0\Problem9_229.Majority Element II.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_229.Majority Element II\obj\Debug\net6.0\Problem9_229.Majority Element II.genruntimeconfig.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_229.Majority Element II\obj\Debug\net6.0\ref\Problem9_229.Majority Element II.dll

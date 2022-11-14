@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_205. Isomorphic Strings\bin\Debug\net6.0\Problem9_205. Isomorphic Strings.exe
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_205. Isomorphic Strings\bin\Debug\net6.0\Problem9_205. Isomorphic Strings.deps.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_205. Isomorphic Strings\bin\Debug\net6.0\Problem9_205. Isomorphic Strings.runtimeconfig.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_205. Isomorphic Strings\bin\Debug\net6.0\Problem9_205. Isomorphic Strings.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_205. Isomorphic Strings\bin\Debug\net6.0\Problem9_205. Isomorphic Strings.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_205. Isomorphic Strings\obj\Debug\net6.0\Problem9_205. Isomorphic Strings.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_205. Isomorphic Strings\obj\Debug\net6.0\Problem9_205. Isomorphic Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_205. Isomorphic Strings\obj\Debug\net6.0\Problem9_205. Isomorphic Strings.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_205. Isomorphic Strings\obj\Debug\net6.0\Problem9_205. Isomorphic Strings.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_205. Isomorphic Strings\obj\Debug\net6.0\Problem9_205. Isomorphic Strings.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_205. Isomorphic Strings\obj\Debug\net6.0\Problem9_205. Isomorphic Strings.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_205. Isomorphic Strings\obj\Debug\net6.0\refint\Problem9_205. Isomorphic Strings.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_205. Isomorphic Strings\obj\Debug\net6.0\Problem9_205. Isomorphic Strings.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_205. Isomorphic Strings\obj\Debug\net6.0\Problem9_205. Isomorphic Strings.genruntimeconfig.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_205. Isomorphic Strings\obj\Debug\net6.0\ref\Problem9_205. Isomorphic Strings.dll

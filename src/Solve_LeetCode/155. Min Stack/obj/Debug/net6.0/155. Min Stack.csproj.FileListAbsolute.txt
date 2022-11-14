@@ -1,0 +1,5 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\155. Min Stack\obj\Debug\net6.0\155. Min Stack.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\155. Min Stack\obj\Debug\net6.0\155. Min Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\155. Min Stack\obj\Debug\net6.0\155. Min Stack.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\155. Min Stack\obj\Debug\net6.0\155. Min Stack.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\155. Min Stack\obj\Debug\net6.0\155. Min Stack.csproj.CoreCompileInputs.cache

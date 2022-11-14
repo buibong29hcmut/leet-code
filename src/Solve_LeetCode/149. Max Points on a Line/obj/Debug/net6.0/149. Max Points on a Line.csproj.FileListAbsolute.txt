@@ -1,0 +1,5 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\149. Max Points on a Line\obj\Debug\net6.0\149. Max Points on a Line.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\149. Max Points on a Line\obj\Debug\net6.0\149. Max Points on a Line.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\149. Max Points on a Line\obj\Debug\net6.0\149. Max Points on a Line.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\149. Max Points on a Line\obj\Debug\net6.0\149. Max Points on a Line.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\149. Max Points on a Line\obj\Debug\net6.0\149. Max Points on a Line.csproj.CoreCompileInputs.cache

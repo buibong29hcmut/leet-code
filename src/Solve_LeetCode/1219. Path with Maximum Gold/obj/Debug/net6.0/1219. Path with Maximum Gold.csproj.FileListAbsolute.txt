@@ -1,0 +1,5 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\1219. Path with Maximum Gold\obj\Debug\net6.0\1219. Path with Maximum Gold.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\1219. Path with Maximum Gold\obj\Debug\net6.0\1219. Path with Maximum Gold.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\1219. Path with Maximum Gold\obj\Debug\net6.0\1219. Path with Maximum Gold.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\1219. Path with Maximum Gold\obj\Debug\net6.0\1219. Path with Maximum Gold.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\1219. Path with Maximum Gold\obj\Debug\net6.0\1219. Path with Maximum Gold.csproj.CoreCompileInputs.cache

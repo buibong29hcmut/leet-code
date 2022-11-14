@@ -1,0 +1,5 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.222. Count Complete Tree Nodes\obj\Debug\net6.0\Problem9.222. Count Complete Tree Nodes.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.222. Count Complete Tree Nodes\obj\Debug\net6.0\Problem9.222. Count Complete Tree Nodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.222. Count Complete Tree Nodes\obj\Debug\net6.0\Problem9.222. Count Complete Tree Nodes.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.222. Count Complete Tree Nodes\obj\Debug\net6.0\Problem9.222. Count Complete Tree Nodes.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.222. Count Complete Tree Nodes\obj\Debug\net6.0\Problem9.222. Count Complete Tree Nodes.csproj.CoreCompileInputs.cache

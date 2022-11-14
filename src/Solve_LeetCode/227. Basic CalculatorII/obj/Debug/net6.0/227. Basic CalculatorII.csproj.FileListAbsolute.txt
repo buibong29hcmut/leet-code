@@ -1,0 +1,5 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\227. Basic CalculatorII\obj\Debug\net6.0\227. Basic CalculatorII.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\227. Basic CalculatorII\obj\Debug\net6.0\227. Basic CalculatorII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\227. Basic CalculatorII\obj\Debug\net6.0\227. Basic CalculatorII.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\227. Basic CalculatorII\obj\Debug\net6.0\227. Basic CalculatorII.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\227. Basic CalculatorII\obj\Debug\net6.0\227. Basic CalculatorII.csproj.CoreCompileInputs.cache

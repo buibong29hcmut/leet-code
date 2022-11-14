@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_268. Missing Number\bin\Debug\net6.0\Problem9_268. Missing Number.exe
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_268. Missing Number\bin\Debug\net6.0\Problem9_268. Missing Number.deps.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_268. Missing Number\bin\Debug\net6.0\Problem9_268. Missing Number.runtimeconfig.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_268. Missing Number\bin\Debug\net6.0\Problem9_268. Missing Number.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_268. Missing Number\bin\Debug\net6.0\Problem9_268. Missing Number.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_268. Missing Number\obj\Debug\net6.0\Problem9_268. Missing Number.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_268. Missing Number\obj\Debug\net6.0\Problem9_268. Missing Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_268. Missing Number\obj\Debug\net6.0\Problem9_268. Missing Number.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_268. Missing Number\obj\Debug\net6.0\Problem9_268. Missing Number.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_268. Missing Number\obj\Debug\net6.0\Problem9_268. Missing Number.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_268. Missing Number\obj\Debug\net6.0\Problem9_268. Missing Number.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_268. Missing Number\obj\Debug\net6.0\refint\Problem9_268. Missing Number.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_268. Missing Number\obj\Debug\net6.0\Problem9_268. Missing Number.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_268. Missing Number\obj\Debug\net6.0\Problem9_268. Missing Number.genruntimeconfig.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9_268. Missing Number\obj\Debug\net6.0\ref\Problem9_268. Missing Number.dll

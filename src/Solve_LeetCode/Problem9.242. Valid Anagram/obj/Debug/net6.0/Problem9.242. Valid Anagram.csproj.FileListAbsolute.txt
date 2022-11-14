@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.242. Valid Anagram\bin\Debug\net6.0\Problem9.242. Valid Anagram.exe
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.242. Valid Anagram\bin\Debug\net6.0\Problem9.242. Valid Anagram.deps.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.242. Valid Anagram\bin\Debug\net6.0\Problem9.242. Valid Anagram.runtimeconfig.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.242. Valid Anagram\bin\Debug\net6.0\Problem9.242. Valid Anagram.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.242. Valid Anagram\bin\Debug\net6.0\Problem9.242. Valid Anagram.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.242. Valid Anagram\obj\Debug\net6.0\Problem9.242. Valid Anagram.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.242. Valid Anagram\obj\Debug\net6.0\Problem9.242. Valid Anagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.242. Valid Anagram\obj\Debug\net6.0\Problem9.242. Valid Anagram.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.242. Valid Anagram\obj\Debug\net6.0\Problem9.242. Valid Anagram.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.242. Valid Anagram\obj\Debug\net6.0\Problem9.242. Valid Anagram.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.242. Valid Anagram\obj\Debug\net6.0\Problem9.242. Valid Anagram.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.242. Valid Anagram\obj\Debug\net6.0\refint\Problem9.242. Valid Anagram.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.242. Valid Anagram\obj\Debug\net6.0\Problem9.242. Valid Anagram.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.242. Valid Anagram\obj\Debug\net6.0\Problem9.242. Valid Anagram.genruntimeconfig.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\Problem9.242. Valid Anagram\obj\Debug\net6.0\ref\Problem9.242. Valid Anagram.dll
