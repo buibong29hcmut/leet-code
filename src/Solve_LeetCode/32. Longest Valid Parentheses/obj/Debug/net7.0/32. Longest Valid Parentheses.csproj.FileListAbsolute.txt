@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\32. Longest Valid Parentheses\bin\Debug\net7.0\32. Longest Valid Parentheses.exe
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\32. Longest Valid Parentheses\bin\Debug\net7.0\32. Longest Valid Parentheses.deps.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\32. Longest Valid Parentheses\bin\Debug\net7.0\32. Longest Valid Parentheses.runtimeconfig.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\32. Longest Valid Parentheses\bin\Debug\net7.0\32. Longest Valid Parentheses.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\32. Longest Valid Parentheses\bin\Debug\net7.0\32. Longest Valid Parentheses.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\32. Longest Valid Parentheses\obj\Debug\net7.0\32. Longest Valid Parentheses.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\32. Longest Valid Parentheses\obj\Debug\net7.0\32. Longest Valid Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\32. Longest Valid Parentheses\obj\Debug\net7.0\32. Longest Valid Parentheses.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\32. Longest Valid Parentheses\obj\Debug\net7.0\32. Longest Valid Parentheses.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\32. Longest Valid Parentheses\obj\Debug\net7.0\32. Longest Valid Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\32. Longest Valid Parentheses\obj\Debug\net7.0\32. Longest Valid Parentheses.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\32. Longest Valid Parentheses\obj\Debug\net7.0\refint\32. Longest Valid Parentheses.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\32. Longest Valid Parentheses\obj\Debug\net7.0\32. Longest Valid Parentheses.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\32. Longest Valid Parentheses\obj\Debug\net7.0\32. Longest Valid Parentheses.genruntimeconfig.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\32. Longest Valid Parentheses\obj\Debug\net7.0\ref\32. Longest Valid Parentheses.dll

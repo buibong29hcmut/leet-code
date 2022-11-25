@@ -2,25 +2,22 @@
 {
     public int SingleNumber(int[] nums)
     {
-        int result = -1;
+       
         HashSet<int> visited = new HashSet<int>();
+        HashSet<int> saveResult= new HashSet<int>();
         for(int i=0;i<nums.Length;i++)
         {
             if (!visited.Contains(nums[i]))
             {
-                result = nums[i];   
+                saveResult.Add(nums[i]);
                 visited.Add(nums[i]);
                 continue;
             }
-            result = -1;
-
+            saveResult.Remove(nums[i]);
+            
         }
-        return result;
+        return saveResult.FirstOrDefault();
         
     }
-    public static void Main()
-    {
-        int result = new Solution().SingleNumber(new[] { 2, 2, 3, 2 });
-        Console.WriteLine(result);
-    }
+
 }
