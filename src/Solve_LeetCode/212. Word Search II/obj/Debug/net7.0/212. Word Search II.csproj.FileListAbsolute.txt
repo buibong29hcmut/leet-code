@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\212. Word Search II\bin\Debug\net7.0\212. Word Search II.exe
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\212. Word Search II\bin\Debug\net7.0\212. Word Search II.deps.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\212. Word Search II\bin\Debug\net7.0\212. Word Search II.runtimeconfig.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\212. Word Search II\bin\Debug\net7.0\212. Word Search II.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\212. Word Search II\bin\Debug\net7.0\212. Word Search II.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\212. Word Search II\obj\Debug\net7.0\212. Word Search II.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\212. Word Search II\obj\Debug\net7.0\212. Word Search II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\212. Word Search II\obj\Debug\net7.0\212. Word Search II.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\212. Word Search II\obj\Debug\net7.0\212. Word Search II.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\212. Word Search II\obj\Debug\net7.0\212. Word Search II.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\212. Word Search II\obj\Debug\net7.0\212. Word Search II.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\212. Word Search II\obj\Debug\net7.0\refint\212. Word Search II.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\212. Word Search II\obj\Debug\net7.0\212. Word Search II.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\212. Word Search II\obj\Debug\net7.0\212. Word Search II.genruntimeconfig.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\212. Word Search II\obj\Debug\net7.0\ref\212. Word Search II.dll

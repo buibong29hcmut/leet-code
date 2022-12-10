@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\162. Find Peak Element\bin\Debug\net7.0\162. Find Peak Element.exe
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\162. Find Peak Element\bin\Debug\net7.0\162. Find Peak Element.deps.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\162. Find Peak Element\bin\Debug\net7.0\162. Find Peak Element.runtimeconfig.json
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\162. Find Peak Element\bin\Debug\net7.0\162. Find Peak Element.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\162. Find Peak Element\bin\Debug\net7.0\162. Find Peak Element.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\162. Find Peak Element\obj\Debug\net7.0\162. Find Peak Element.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\162. Find Peak Element\obj\Debug\net7.0\162. Find Peak Element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\162. Find Peak Element\obj\Debug\net7.0\162. Find Peak Element.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\162. Find Peak Element\obj\Debug\net7.0\162. Find Peak Element.AssemblyInfo.cs
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\162. Find Peak Element\obj\Debug\net7.0\162. Find Peak Element.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\162. Find Peak Element\obj\Debug\net7.0\162. Find Peak Element.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\162. Find Peak Element\obj\Debug\net7.0\refint\162. Find Peak Element.dll
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\162. Find Peak Element\obj\Debug\net7.0\162. Find Peak Element.pdb
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\162. Find Peak Element\obj\Debug\net7.0\162. Find Peak Element.genruntimeconfig.cache
+C:\Users\ACER\source\repos\leet-code\src\Solve_LeetCode\162. Find Peak Element\obj\Debug\net7.0\ref\162. Find Peak Element.dll

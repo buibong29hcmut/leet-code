@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "945. Minimum Increment to Make Array Unique/1.0.0": {
+        "runtime": {
+          "945. Minimum Increment to Make Array Unique.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "945. Minimum Increment to Make Array Unique/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
